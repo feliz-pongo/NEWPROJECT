@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Urbano</name>
+   <tag></tag>
+   <elementGuidId>df6512fb-584b-4815-abc1-b73ab4d57c9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='submenu-register-predio']/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#submenu-register-predio > li.submenu > a.collapsed > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>168f9dc9-a2be-4f67-ac8a-db481f13d8ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Urbano</value>
+      <webElementGuid>b05e1d2b-7259-4f4e-9fd0-34ea9571b323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submenu-register-predio&quot;)/li[@class=&quot;submenu&quot;]/a[@class=&quot;collapsed&quot;]/span[1]</value>
+      <webElementGuid>7474f779-14b6-4c9d-9d2a-7d8e060a9974</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='submenu-register-predio']/li/a/span</value>
+      <webElementGuid>0d7ce41e-9233-4165-a8a9-f17cfbf72a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prédio'])[1]/following::span[1]</value>
+      <webElementGuid>d0e52485-74d9-4df0-910e-d6f3d4f0c511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesquisar'])[1]/following::span[2]</value>
+      <webElementGuid>28064df5-3883-4c6d-a912-a178a81f3bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Propriedade'])[1]/preceding::span[1]</value>
+      <webElementGuid>3a80bac8-9fee-4b5e-826e-db2fd7808438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Horizontal'])[1]/preceding::span[2]</value>
+      <webElementGuid>ec69b53d-aee3-4fed-a20c-09bccc6ef2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Urbano']/parent::*</value>
+      <webElementGuid>16584638-71bd-4e67-bf2a-03bd2624d9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[2]/ul/li/a/span</value>
+      <webElementGuid>4591b6d8-933e-47ab-9df7-685a3659f001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Urbano' or . = 'Urbano')]</value>
+      <webElementGuid>adf3430c-ed63-4622-b75b-2fd969fb3f0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

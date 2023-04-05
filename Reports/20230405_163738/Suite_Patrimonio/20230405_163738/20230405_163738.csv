@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite_Patrimonio,Chrome 111.0.0.0,,,2023-04-05 16:37:44,2023-04-05 16:38:01,"17,677s",PASSED
+,,,,,,,
+Test Cases/Loginfont TC/Log,Chrome 111.0.0.0,,,2023-04-05 16:37:44,2023-04-05 16:37:54,"9,447s",PASSED
+"openBrowser(""http://10.129.105.196:7003/frontoffice/login"")",Chrome 111.0.0.0,,,2023-04-05 16:37:45,2023-04-05 16:37:50,"4,806s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/ID_utilizador""), ""Patrimonio2RF"")",Chrome 111.0.0.0,,,2023-04-05 16:37:50,2023-04-05 16:37:51,"0,910s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/input_Password_j_password""), ""PAT2ref"")",Chrome 111.0.0.0,,,2023-04-05 16:37:51,2023-04-05 16:37:51,"0,622s",PASSED
+"click(findTestObject(""Object Repository/Login/Iniciar_Sesso""))",Chrome 111.0.0.0,,,2023-04-05 16:37:51,2023-04-05 16:37:54,"2,477s",PASSED
+,,,,,,,
+Test Cases/Processo_Imovel TC/Submissão de Imovel,Chrome 111.0.0.0,,,2023-04-05 16:37:54,2023-04-05 16:38:01,"7,638s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Patrimnio""))",Chrome 111.0.0.0,,,2023-04-05 16:37:55,2023-04-05 16:37:55,"0,604s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Cadastro""))",Chrome 111.0.0.0,,,2023-04-05 16:37:55,2023-04-05 16:37:56,"1,071s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Prdio""))",Chrome 111.0.0.0,,,2023-04-05 16:37:56,2023-04-05 16:37:57,"0,986s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Urbano""))",Chrome 111.0.0.0,,,2023-04-05 16:37:57,2023-04-05 16:37:58,"1,029s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Propriedade Total""))",Chrome 111.0.0.0,,,2023-04-05 16:37:58,2023-04-05 16:38:01,"3,001s",PASSED

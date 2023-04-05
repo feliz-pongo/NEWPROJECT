@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Prdio</name>
+   <tag></tag>
+   <elementGuidId>f1202c89-99c6-42ff-ac38-31f94da5d4a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='submenu-register-patrimony']/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.submenu.patrimonio > a.collapsed > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2b158320-5df4-4eba-8e6b-c23c0bd25ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Prédio</value>
+      <webElementGuid>71330d22-c2d5-4155-8bbc-899adc1f996e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submenu-register-patrimony&quot;)/li[@class=&quot;submenu patrimonio&quot;]/a[@class=&quot;collapsed&quot;]/span[1]</value>
+      <webElementGuid>257b33e5-ee8a-470f-8f15-8748a9fdb6ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='submenu-register-patrimony']/li[2]/a/span</value>
+      <webElementGuid>802f4a30-bde6-41f1-bece-fddd5a7c9d26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesquisar'])[1]/following::span[1]</value>
+      <webElementGuid>683d7b90-d519-4700-8217-0b73dc3f2b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cadastro'])[1]/following::span[2]</value>
+      <webElementGuid>33289242-8e6c-45ca-83cc-f9164c2cf0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urbano'])[1]/preceding::span[1]</value>
+      <webElementGuid>0fb69a9b-46ba-4570-bb15-8374b3d18b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Propriedade'])[1]/preceding::span[2]</value>
+      <webElementGuid>87e357b8-b3dd-4e29-88e8-b8a0f1237ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prédio']/parent::*</value>
+      <webElementGuid>2e80a0ec-f7c0-4925-b5a2-c3e16e313a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/ul/li[2]/a/span</value>
+      <webElementGuid>d32f32c7-4bfa-4cf4-80cb-1630fa821c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Prédio' or . = ' Prédio')]</value>
+      <webElementGuid>8a4f9b00-c1d1-423f-b703-522a68ee9420</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

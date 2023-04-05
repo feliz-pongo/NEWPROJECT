@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suite_Patrimonio" time="17.677" tests="2" failures="0" errors="0">
+   <testsuite name="Suite_Patrimonio" tests="2" failures="0" errors="0" time="17.677" skipped="0" timestamp="2023-04-05 16:37:44" hostname="feliz.pongo - NOT-TIS-CON22.TISTECH.LAN" id="Test Suites/Suite_Patrimonio">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\feliz.pongo\\git\\NEWPROJECT\\Reports\\20230405_163738\\Suite_Patrimonio\\20230405_163738"/>
+         <property name="logFiles" value="C:\\Users\\feliz.pongo\\git\\NEWPROJECT\\Reports\\20230405_163738\\Suite_Patrimonio\\20230405_163738\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="feliz.pongo - NOT-TIS-CON22.TISTECH.LAN"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 111.0.0.0"/>
+         <property name="hostAddress" value="10.246.0.136"/>
+         <property name="sessionId" value="032df3aa20b9fccb65002b29c6284b1e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Loginfont TC/Log" time="9.447" classname="Test Cases/Loginfont TC/Log" status="PASSED">
+         <system-out><![CDATA[2023-04-05 16:37:44 - [TEST_CASE][PASSED] - Test Cases/Loginfont TC/Log: Test Cases/Loginfont TC/Log
+
+2023-04-05 16:37:45 - [TEST_STEP][PASSED] - openBrowser("http://10.129.105.196:7003/frontoffice/login"): Browser is opened with url: 'http://10.129.105.196:7003/frontoffice/login'
+
+2023-04-05 16:37:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-04-05 16:37:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-04-05 16:37:50 - [MESSAGE][PASSED] - Browser is opened with url: 'http://10.129.105.196:7003/frontoffice/login'
+
+2023-04-05 16:37:50 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Login/ID_utilizador"), "Patrimonio2RF"): Keys 'Patrimonio2RF' sent to object: 'Object Repository/Login/ID_utilizador'
+
+2023-04-05 16:37:51 - [MESSAGE][PASSED] - Keys 'Patrimonio2RF' sent to object: 'Object Repository/Login/ID_utilizador'
+
+2023-04-05 16:37:51 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Login/input_Password_j_password"), "PAT2ref"): Keys 'PAT2ref' sent to object: 'Object Repository/Login/input_Password_j_password'
+
+2023-04-05 16:37:51 - [MESSAGE][PASSED] - Keys 'PAT2ref' sent to object: 'Object Repository/Login/input_Password_j_password'
+
+2023-04-05 16:37:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Iniciar_Sesso")): Object: 'Object Repository/Login/Iniciar_Sesso' is clicked on
+
+2023-04-05 16:37:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Iniciar_Sesso' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Processo_Imovel TC/Submissão de Imovel" time="7.638" classname="Test Cases/Processo_Imovel TC/Submissão de Imovel" status="PASSED">
+         <system-out><![CDATA[2023-04-05 16:37:54 - [TEST_CASE][PASSED] - Test Cases/Processo_Imovel TC/Submissão de Imovel: Test Cases/Processo_Imovel TC/Submissão de Imovel
+
+2023-04-05 16:37:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Processo_Sub_Imovel/span_Patrimnio")): Object: 'Object Repository/Processo_Sub_Imovel/span_Patrimnio' is clicked on
+
+2023-04-05 16:37:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Processo_Sub_Imovel/span_Patrimnio' is clicked on
+
+2023-04-05 16:37:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Processo_Sub_Imovel/span_Cadastro")): Object: 'Object Repository/Processo_Sub_Imovel/span_Cadastro' is clicked on
+
+2023-04-05 16:37:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Processo_Sub_Imovel/span_Cadastro' is clicked on
+
+2023-04-05 16:37:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Processo_Sub_Imovel/span_Prdio")): Object: 'Object Repository/Processo_Sub_Imovel/span_Prdio' is clicked on
+
+2023-04-05 16:37:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Processo_Sub_Imovel/span_Prdio' is clicked on
+
+2023-04-05 16:37:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Processo_Sub_Imovel/span_Urbano")): Object: 'Object Repository/Processo_Sub_Imovel/span_Urbano' is clicked on
+
+2023-04-05 16:37:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Processo_Sub_Imovel/span_Urbano' is clicked on
+
+2023-04-05 16:37:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Processo_Sub_Imovel/span_Propriedade Total")): Object: 'Object Repository/Processo_Sub_Imovel/span_Propriedade Total' is clicked on
+
+2023-04-05 16:38:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Processo_Sub_Imovel/span_Propriedade Total' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-04-05 16:37:44 - [TEST_SUITE][PASSED] - Suite_Patrimonio: Test Cases/Processo_Imovel TC/Submissão de Imovel]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
