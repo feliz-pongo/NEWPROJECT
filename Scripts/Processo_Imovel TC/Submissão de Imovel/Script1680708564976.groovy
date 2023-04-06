@@ -23,3 +23,7 @@ WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/span_Prdio'))
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/span_Urbano'))
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/span_Propriedade Total'))
 
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_REGIME JURDICO'))
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DO DECLARANTE'))
+
+

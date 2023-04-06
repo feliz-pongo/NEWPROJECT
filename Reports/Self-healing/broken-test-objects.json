@@ -9,6 +9,16 @@
       "proposedLocatorMethod": "CSS",
       "recoveryMethod": "CSS",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Google/path_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Processo_Sub_Imovel/span_Patrimnio",
+      "brokenLocator": "//section[@id\u003d\u0027content\u0027]/div/main/div/div/div/aside/div/ul/li[3]/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Consultar\u0027])[2]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Processo_Sub_Imovel/span_Patrimnio_neighbor.png"
     }
   ]
 }
