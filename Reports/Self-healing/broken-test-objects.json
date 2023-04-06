@@ -19,6 +19,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Processo_Sub_Imovel/span_Patrimnio_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/ID_utilizador",
+      "brokenLocator": "//input[@id\u003d\u0027j_username\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[@id \u003d \u0027j_username\u0027 and @name \u003d \u0027j_username\u0027 and @type \u003d \u0027text\u0027 and @placeholder \u003d \u0027ID Utilizador\u0027]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/ID_utilizador_BASIC.png"
     }
   ]
 }

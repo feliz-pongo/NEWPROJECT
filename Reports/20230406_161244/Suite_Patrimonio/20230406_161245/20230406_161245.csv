@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite_Patrimonio,Chrome 111.0.0.0,,,2023-04-06 16:12:48,2023-04-06 16:13:22,"34,135s",PASSED
+,,,,,,,
+Test Cases/Loginfont TC/Log,Chrome 111.0.0.0,,,2023-04-06 16:12:49,2023-04-06 16:13:07,"18,504s",PASSED
+"openBrowser(""http://10.129.105.196:7003/frontoffice/login"")",Chrome 111.0.0.0,,,2023-04-06 16:12:49,2023-04-06 16:12:52,"3,293s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/ID_utilizador""), ""Patrimonio2RF"")",Chrome 111.0.0.0,,,2023-04-06 16:12:52,2023-04-06 16:12:53,"0,462s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/input_Password_j_password""), ""PAT2ref"")",Chrome 111.0.0.0,,,2023-04-06 16:12:53,2023-04-06 16:12:53,"0,373s",PASSED
+"click(findTestObject(""Object Repository/Login/Iniciar_Sesso""))",Chrome 111.0.0.0,,,2023-04-06 16:12:53,2023-04-06 16:13:07,"14,116s",PASSED
+,,,,,,,
+Test Cases/Processo_Imovel TC/Submissão de Imovel,Chrome 111.0.0.0,,,2023-04-06 16:13:07,2023-04-06 16:13:22,"15,424s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Patrimnio""))",Chrome 111.0.0.0,,,2023-04-06 16:13:07,2023-04-06 16:13:08,"0,360s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Cadastro""))",Chrome 111.0.0.0,,,2023-04-06 16:13:08,2023-04-06 16:13:09,"0,903s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Prdio""))",Chrome 111.0.0.0,,,2023-04-06 16:13:09,2023-04-06 16:13:09,"0,478s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Urbano""))",Chrome 111.0.0.0,,,2023-04-06 16:13:09,2023-04-06 16:13:09,"0,468s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Propriedade Total""))",Chrome 111.0.0.0,,,2023-04-06 16:13:09,2023-04-06 16:13:21,"11,470s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/div_REGIME JURDICO""))",Chrome 111.0.0.0,,,2023-04-06 16:13:21,2023-04-06 16:13:22,"0,689s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DO DECLARANTE""))",Chrome 111.0.0.0,,,2023-04-06 16:13:22,2023-04-06 16:13:22,"0,804s",PASSED

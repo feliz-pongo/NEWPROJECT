@@ -25,5 +25,10 @@ WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/span_Proprieda
 
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_REGIME JURDICO'))
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DO DECLARANTE'))
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/btn_loopa_Declarante'))
+WebUI.sendKeys(findTestObject('Object Repository/Processo_Sub_Imovel/input_Nome do Contribuinte_frmSearchNIFBranchedialogSearchNIF-nameInput'), 'MARCO')
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/span_Pesquisar'))
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/span_Pesquisar'))
+
 
 
