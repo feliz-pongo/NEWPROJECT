@@ -29,6 +29,16 @@
       "proposedLocatorMethod": "BASIC",
       "recoveryMethod": "BASIC",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/ID_utilizador_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/ID_utilizador",
+      "brokenLocator": "//input[@id\u003d\u0027j_username\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//section[@id\u003d\u0027content\u0027]/div/main/form/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/ID_utilizador_idRelative.png"
     }
   ]
 }

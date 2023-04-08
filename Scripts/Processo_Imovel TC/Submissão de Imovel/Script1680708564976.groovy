@@ -31,6 +31,9 @@ WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/span_Pesquisar
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/td_ADHEMAR MARCOS'))
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/na_qualidade_de'))
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/li_Tcnico de Impostos'))
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DO IMVEL'))
+WebUI.sendKeys(findTestObject('Object Repository/Processo_Sub_Imovel/input_Nome da Propriedade_frmPatrimonytvSuporteaccPrincipalpropertyName'), 'TESTE')
+
 
 
 

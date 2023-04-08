@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_IDENTIFICAO DO IMVEL</name>
+   <tag></tag>
+   <elementGuidId>46ef9208-7d64-4310-9c70-fbb63fc05a49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='frmPatrimony:tvSuporte:accPrincipal']/div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-accordion-header.ui-helper-reset.ui-state-default.ui-tabs-outline.ui-state-active.ui-corner-top</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>059f6a88-2ac9-42da-8628-784fa007d7b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-accordion-header ui-helper-reset ui-state-default ui-tabs-outline ui-state-active ui-corner-top</value>
+      <webElementGuid>633efb50-4b85-47ae-8894-4fa29ca131e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>f9b798f5-b1de-4273-bb00-9e6d60ebbab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1f64f723-b76b-4c61-95fd-c5369c514f4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>06d9e5d7-1dfc-4d34-8c73-ce2a358dc3a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>451dbadc-05af-47d0-9469-243465e3771e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IDENTIFICAÇÃO DO IMÓVEL</value>
+      <webElementGuid>bc5b8839-5ddb-4a3e-b408-a4bb7794cda2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPatrimony:tvSuporte:accPrincipal&quot;)/div[@class=&quot;ui-accordion-header ui-helper-reset ui-state-default ui-tabs-outline ui-state-active ui-corner-top&quot;]</value>
+      <webElementGuid>0d72c775-d0f3-4f19-89f0-c2c326d0b612</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmPatrimony:tvSuporte:accPrincipal']/div[7]</value>
+      <webElementGuid>a76ac9f2-0271-4da6-831e-139fe85f88f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Não preenchido'])[2]/following::div[2]</value>
+      <webElementGuid>17c7aef0-5dc0-4706-b72c-f2517abffa8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Na Qualidade de*'])[1]/following::div[6]</value>
+      <webElementGuid>b8fc6e5f-1f48-4098-9903-9ede285dc673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nome da Propriedade*'])[1]/preceding::div[1]</value>
+      <webElementGuid>ddb87074-04cc-4e15-b4a7-04645d9a7129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número do Artigo Matricial SIGT V1'])[1]/preceding::div[3]</value>
+      <webElementGuid>0e0cf51f-1af6-497b-aa19-1055e176812b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IDENTIFICAÇÃO DO IMÓVEL']/parent::*</value>
+      <webElementGuid>d0bf55ba-8842-4897-b7fd-e2a93f3245ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[7]</value>
+      <webElementGuid>b4321629-5d04-4f1a-adc0-7e2a35cdfa85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IDENTIFICAÇÃO DO IMÓVEL' or . = 'IDENTIFICAÇÃO DO IMÓVEL')]</value>
+      <webElementGuid>07a8809b-881e-4a5e-b50e-137f080c8274</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
