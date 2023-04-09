@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite_Patrimonio,Chrome 111.0.0.0,,,2023-04-09 11:50:28,2023-04-09 11:51:05,"37,010s",PASSED
+,,,,,,,
+Test Cases/Loginfont TC/Log,Chrome 111.0.0.0,,,2023-04-09 11:50:29,2023-04-09 11:50:43,"14,746s",PASSED
+"openBrowser(""http://10.129.105.196:7003/frontoffice/login"")",Chrome 111.0.0.0,,,2023-04-09 11:50:29,2023-04-09 11:50:35,"5,578s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/ID_utilizador""), ""Patrimonio2RF"")",Chrome 111.0.0.0,,,2023-04-09 11:50:35,2023-04-09 11:50:36,"0,787s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/input_Password_j_password""), ""PAT2ref"")",Chrome 111.0.0.0,,,2023-04-09 11:50:36,2023-04-09 11:50:36,"0,619s",PASSED
+"click(findTestObject(""Object Repository/Login/Iniciar_Sesso""))",Chrome 111.0.0.0,,,2023-04-09 11:50:36,2023-04-09 11:50:43,"7,112s",PASSED
+,,,,,,,
+Test Cases/Processo_Imovel TC/Submissão de Imovel,Chrome 111.0.0.0,,,2023-04-09 11:50:43,2023-04-09 11:51:05,"21,730s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Patrimnio""))",Chrome 111.0.0.0,,,2023-04-09 11:50:44,2023-04-09 11:50:45,"0,863s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Cadastro""))",Chrome 111.0.0.0,,,2023-04-09 11:50:45,2023-04-09 11:50:46,"1,043s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Prdio""))",Chrome 111.0.0.0,,,2023-04-09 11:50:46,2023-04-09 11:50:47,"0,929s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Urbano""))",Chrome 111.0.0.0,,,2023-04-09 11:50:47,2023-04-09 11:50:48,"1,031s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Propriedade Total""))",Chrome 111.0.0.0,,,2023-04-09 11:50:48,2023-04-09 11:50:53,"5,064s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/div_REGIME JURDICO""))",Chrome 111.0.0.0,,,2023-04-09 11:50:53,2023-04-09 11:50:54,"0,609s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DO DECLARANTE""))",Chrome 111.0.0.0,,,2023-04-09 11:50:54,2023-04-09 11:50:54,"0,889s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/btn_loopa_Declarante""))",Chrome 111.0.0.0,,,2023-04-09 11:50:54,2023-04-09 11:50:55,"1,001s",PASSED
+"sendKeys(findTestObject(""Object Repository/Processo_Sub_Imovel/input_Nome do Contribuinte_frmSearchNIFBranchedialogSearchNIF-nameInput""), ""MARCOS"")",Chrome 111.0.0.0,,,2023-04-09 11:50:55,2023-04-09 11:50:56,"0,932s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Pesquisar""))",Chrome 111.0.0.0,,,2023-04-09 11:50:56,2023-04-09 11:50:57,"0,536s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/td_ADHEMAR MARCOS""))",Chrome 111.0.0.0,,,2023-04-09 11:50:57,2023-04-09 11:50:59,"2,574s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/na_qualidade_de""))",Chrome 111.0.0.0,,,2023-04-09 11:50:59,2023-04-09 11:51:01,"1,982s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/li_Tcnico de Impostos""))",Chrome 111.0.0.0,,,2023-04-09 11:51:01,2023-04-09 11:51:03,"1,052s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DO IMVEL""))",Chrome 111.0.0.0,,,2023-04-09 11:51:03,2023-04-09 11:51:03,"0,930s",PASSED
+"sendKeys(findTestObject(""Object Repository/Processo_Sub_Imovel/input_Nome da Propriedade_frmPatrimonytvSuporteaccPrincipalpropertyName""), ""TESTE"")",Chrome 111.0.0.0,,,2023-04-09 11:51:03,2023-04-09 11:51:05,"1,083s",PASSED
+"sendKeys(findTestObject(""Object Repository/OR_Frontoffice/Cadastro_Imovel_M5/delete_field_Valor Declarado (Kz)_frmPatrimonytvSuporteaccPrincipaldeclaredValue_input""), ""Keys.chord(Keys.BACK_SPACE"")",Chrome 111.0.0.0,,,2023-04-09 11:51:05,2023-04-09 11:51:05,"0,483s",PASSED

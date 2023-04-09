@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite_Patrimonio,Chrome 111.0.0.0,,,2023-04-08 13:53:13,2023-04-08 13:53:55,"41,296s",PASSED
+,,,,,,,
+Test Cases/Loginfont TC/Log,Chrome 111.0.0.0,,,2023-04-08 13:53:14,2023-04-08 13:53:28,"13,945s",PASSED
+"openBrowser(""http://10.129.105.196:7003/frontoffice/login"")",Chrome 111.0.0.0,,,2023-04-08 13:53:14,2023-04-08 13:53:20,"5,320s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/ID_utilizador""), ""Patrimonio2RF"")",Chrome 111.0.0.0,,,2023-04-08 13:53:20,2023-04-08 13:53:20,"0,724s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/input_Password_j_password""), ""PAT2ref"")",Chrome 111.0.0.0,,,2023-04-08 13:53:20,2023-04-08 13:53:21,"0,716s",PASSED
+"click(findTestObject(""Object Repository/Login/Iniciar_Sesso""))",Chrome 111.0.0.0,,,2023-04-08 13:53:21,2023-04-08 13:53:28,"6,583s",PASSED
+,,,,,,,
+Test Cases/Processo_Imovel TC/Submissão de Imovel,Chrome 111.0.0.0,,,2023-04-08 13:53:28,2023-04-08 13:53:55,"26,819s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Patrimnio""))",Chrome 111.0.0.0,,,2023-04-08 13:53:29,2023-04-08 13:53:29,"0,780s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Cadastro""))",Chrome 111.0.0.0,,,2023-04-08 13:53:29,2023-04-08 13:53:30,"1,072s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Prdio""))",Chrome 111.0.0.0,,,2023-04-08 13:53:30,2023-04-08 13:53:31,"0,991s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Urbano""))",Chrome 111.0.0.0,,,2023-04-08 13:53:31,2023-04-08 13:53:32,"0,939s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Propriedade Total""))",Chrome 111.0.0.0,,,2023-04-08 13:53:32,2023-04-08 13:53:40,"7,635s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/div_REGIME JURDICO""))",Chrome 111.0.0.0,,,2023-04-08 13:53:40,2023-04-08 13:53:41,"0,601s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DO DECLARANTE""))",Chrome 111.0.0.0,,,2023-04-08 13:53:41,2023-04-08 13:53:41,"0,874s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/btn_loopa_Declarante""))",Chrome 111.0.0.0,,,2023-04-08 13:53:41,2023-04-08 13:53:42,"0,967s",PASSED
+"sendKeys(findTestObject(""Object Repository/Processo_Sub_Imovel/input_Nome do Contribuinte_frmSearchNIFBranchedialogSearchNIF-nameInput""), ""MARCOS"")",Chrome 111.0.0.0,,,2023-04-08 13:53:42,2023-04-08 13:53:43,"1,028s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Pesquisar""))",Chrome 111.0.0.0,,,2023-04-08 13:53:43,2023-04-08 13:53:44,"0,528s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/td_ADHEMAR MARCOS""))",Chrome 111.0.0.0,,,2023-04-08 13:53:44,2023-04-08 13:53:47,"2,629s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/na_qualidade_de""))",Chrome 111.0.0.0,,,2023-04-08 13:53:47,2023-04-08 13:53:50,"2,975s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/li_Tcnico de Impostos""))",Chrome 111.0.0.0,,,2023-04-08 13:53:50,2023-04-08 13:53:51,"0,937s",PASSED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DO IMVEL""))",Chrome 111.0.0.0,,,2023-04-08 13:53:51,2023-04-08 13:53:52,"1,042s",PASSED
+"sendKeys(findTestObject(""Object Repository/Processo_Sub_Imovel/input_Nome da Propriedade_frmPatrimonytvSuporteaccPrincipalpropertyName""), ""TESTE"")",Chrome 111.0.0.0,,,2023-04-08 13:53:52,2023-04-08 13:53:53,"1,167s",PASSED
+"sendKeys(findTestObject(""Object Repository/Processo_Sub_Imovel/insirir_Valor Declarado (Kz)_frmPatrimonytvSuporteaccPrincipaldeclaredValue_input""), Keys.chord(BACK_SPACE))",Chrome 111.0.0.0,,,2023-04-08 13:53:53,2023-04-08 13:53:54,"0,817s",PASSED
+"sendKeys(findTestObject(""Object Repository/Processo_Sub_Imovel/insirir_Valor Declarado (Kz)_frmPatrimonytvSuporteaccPrincipaldeclaredValue_input""), ""200000"")",Chrome 111.0.0.0,,,2023-04-08 13:53:54,2023-04-08 13:53:55,"1,029s",PASSED
