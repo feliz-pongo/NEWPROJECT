@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Nome do Contribuinte_frmSearchNIFBranchedialogSearchNIF-nameInput</name>
    <tag></tag>
-   <elementGuidId>3b828ac6-c607-42db-82cb-a05d49738548</elementGuidId>
+   <elementGuidId>a8d78795-9e8a-41f4-8184-37937d3255a0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d7b53d65-588e-4daf-a5c0-e8107594d5c5</webElementGuid>
+      <webElementGuid>ac1dc3c3-bd7c-4ba0-81ed-4863eee06a23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>frmSearchNIFBranche:dialogSearchNIF-nameInput</value>
-      <webElementGuid>ae9feb72-3175-45a4-873d-27fb4904db84</webElementGuid>
+      <webElementGuid>74f2b412-2d7d-4770-896e-b593846c8d3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>frmSearchNIFBranche:dialogSearchNIF-nameInput</value>
-      <webElementGuid>7825529a-4f39-4f41-bce0-f8e885f31f15</webElementGuid>
+      <webElementGuid>adf5711b-7568-409b-8943-d88f3de5b2db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>67a3c8e7-d4f9-4d8b-b0a8-6f006d558f41</webElementGuid>
+      <webElementGuid>e2fa8dbd-5ab4-4f83-abfe-8ae87aa95683</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all form-control ui-state-focus ui-state-hover</value>
-      <webElementGuid>d218554e-e9e3-468b-81ad-cba2c7dd7331</webElementGuid>
+      <webElementGuid>b3b1cb11-eb2a-4ccd-9d2d-e5d5ca4d2a87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>842a3f99-5ef1-417d-81cb-436b2dc336ff</webElementGuid>
+      <webElementGuid>675ccd2d-e5e9-4f7e-a0ea-fd32658259ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4076087c-a963-492e-be88-021c5208f72e</webElementGuid>
+      <webElementGuid>ba2fd7f9-917f-4e31-8445-a6f68401a4e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>04fbeebe-d024-434a-8262-232ecaca0efc</webElementGuid>
+      <webElementGuid>1b976c0f-152e-47f4-ae4e-f874302c317a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frmSearchNIFBranche:dialogSearchNIF-nameInput&quot;)</value>
-      <webElementGuid>a402cabe-652e-46ee-a45b-b9ff73feb277</webElementGuid>
+      <webElementGuid>dd4f6efe-3e37-462c-af57-a45be0b48cc3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='frmSearchNIFBranche:dialogSearchNIF-nameInput']</value>
-      <webElementGuid>d1e60ad0-20b7-43aa-8e07-b0034a1f4249</webElementGuid>
+      <webElementGuid>335a85c2-bb74-4a9a-9a65-d17180889cc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmSearchNIFBranche']/div/div/input</value>
-      <webElementGuid>3e670e5b-3cac-4299-9e48-a443b1e085d7</webElementGuid>
+      <webElementGuid>f6132ba5-a546-4bad-bab1-a18e9a4fe1e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/input</value>
-      <webElementGuid>5da91fcd-934a-457d-a3ae-71d4eed1f0df</webElementGuid>
+      <webElementGuid>c50a90cd-82ab-43f7-bee2-470368c55d5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'frmSearchNIFBranche:dialogSearchNIF-nameInput' and @name = 'frmSearchNIFBranche:dialogSearchNIF-nameInput' and @type = 'text']</value>
-      <webElementGuid>c8810578-50cf-4929-bf55-553231dfc5e0</webElementGuid>
+      <webElementGuid>3d046f9c-44b3-477a-9280-0bc73a7254f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

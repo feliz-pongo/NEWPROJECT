@@ -33,8 +33,8 @@ WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/na_qualidade_d
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/li_Tcnico de Impostos'))
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DO IMVEL'))
 WebUI.sendKeys(findTestObject('Object Repository/Processo_Sub_Imovel/input_Nome da Propriedade_frmPatrimonytvSuporteaccPrincipalpropertyName'), 'TESTE')
-
-
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/deletar_Valor Declarado (Kz)_frmPatrimonytvSuporteaccPrincipaldeclaredValue_input'))
+WebUI.sendKeys(findTestObject('Object Repository/Processo_Sub_Imovel/Valor Declarado (Kz)_frmPatrimonytvSuporteaccPrincipaldeclaredValue_input'),'Keys.chord(Keys.BACK_SPACE' )
 
 
 
