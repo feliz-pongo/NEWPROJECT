@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_IDENTIFICAO DE TITULARES</name>
+   <tag></tag>
+   <elementGuidId>831d27db-586b-455e-bd12-ed5fe173ec29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='frmPatrimony:tvSuporte:accPrincipal']/div[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-accordion-header.ui-helper-reset.ui-state-default.ui-tabs-outline.ui-corner-all.ui-state-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>97ad7518-3ab0-4fe1-8a03-c27dd5b5d311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-accordion-header ui-helper-reset ui-state-default ui-tabs-outline ui-corner-all ui-state-hover</value>
+      <webElementGuid>392c6236-47d8-473e-a884-bee112590127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>21296d16-665b-41b1-8f97-073e680f932a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4de94b95-3d95-4e24-ae38-665b4fcb90b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4a0c7ad0-f318-4b47-95ac-9e5ac894ace6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>0deb2d05-4719-4884-957e-cb55537ae10e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IDENTIFICAÇÃO DE TITULARES</value>
+      <webElementGuid>c8b0b08a-8ba0-40b6-9f48-c8717361003f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPatrimony:tvSuporte:accPrincipal&quot;)/div[@class=&quot;ui-accordion-header ui-helper-reset ui-state-default ui-tabs-outline ui-corner-all ui-state-hover&quot;]</value>
+      <webElementGuid>b1ed98c9-38e7-468c-b213-7b1affa7a521</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmPatrimony:tvSuporte:accPrincipal']/div[9]</value>
+      <webElementGuid>7f279eca-0f07-4a5f-9786-38fcebe63a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valor Declarado (Kz)*'])[1]/following::div[2]</value>
+      <webElementGuid>9df5e2b4-5b13-4b95-b7b1-d99601696d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de Registo na Conservatória'])[1]/following::div[4]</value>
+      <webElementGuid>ec0661ed-42d7-4486-b363-de40b2b0b097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Novo Titular'])[1]/preceding::div[1]</value>
+      <webElementGuid>44637e4a-0534-45d8-add2-7a48c382c419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIF'])[1]/preceding::div[3]</value>
+      <webElementGuid>e09dbbbf-1a6f-4b65-8104-fa930f42c912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IDENTIFICAÇÃO DE TITULARES']/parent::*</value>
+      <webElementGuid>2178a90a-710d-49e1-b44a-fe512f7faa38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[9]</value>
+      <webElementGuid>fa72cd03-01cf-4399-a685-581df778b2e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IDENTIFICAÇÃO DE TITULARES' or . = 'IDENTIFICAÇÃO DE TITULARES')]</value>
+      <webElementGuid>9e31666f-5eac-45fa-9785-b2bdbc4e3085</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

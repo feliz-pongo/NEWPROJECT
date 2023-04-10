@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titular_NIF_ui-button-icon-left ui-icon ui-c fa fa-search</name>
+   <tag></tag>
+   <elementGuidId>7d695794-5603-4e6e-bf2a-72bb6c84b984</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='formRegisterOwnerModal:btnSerchPerson']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f0b3809-b247-4fcc-86fe-d1711c49df7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c fa fa-search</value>
+      <webElementGuid>b8ef1b97-39f7-4e3d-bb11-48b9ee5b6bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formRegisterOwnerModal:btnSerchPerson&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c fa fa-search&quot;]</value>
+      <webElementGuid>a1c392c5-f700-4d6e-a282-2bc70c36ddf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='formRegisterOwnerModal:btnSerchPerson']/span</value>
+      <webElementGuid>b03aafa4-e0b7-45f2-8c66-5d45831e2bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/span/div/div[2]/button/span</value>
+      <webElementGuid>d7052ba4-5bc1-4502-9683-ae9c0a9d72a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -35,6 +35,15 @@ WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_IDENTIFICA
 WebUI.sendKeys(findTestObject('Object Repository/Processo_Sub_Imovel/input_Nome da Propriedade_frmPatrimonytvSuporteaccPrincipalpropertyName'), 'TESTE')
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/deletar_Valor Declarado (Kz)_frmPatrimonytvSuporteaccPrincipaldeclaredValue_input'))
 WebUI.sendKeys(findTestObject('Object Repository/Processo_Sub_Imovel/Valor Declarado (Kz)_frmPatrimonytvSuporteaccPrincipaldeclaredValue_input'),'Keys.chord(Keys.BACK_SPACE' )
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DE TITULARES'))
+
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/span_Novo Titular'))
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/titular_NIF_ui-button-icon-left ui-icon ui-c fa fa-search'))
+WebUI.sendKeys(findTestObject('Object Repository/Processo_Sub_Imovel/Nome_YURI do Contribuinte_frmSearchNIFBranchedialogSearchNIF-nameInput'), 'YURI')
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/titular_Pesquisar'))
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/td_ERNESTO YURI'))
+
+
 
 
 

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titular_Pesquisar</name>
+   <tag></tag>
+   <elementGuidId>dee2f544-7402-4325-b137-b0a96c0adc54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='frmSearchNIFBranche:btnSearchTaxpayerBranch']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c48fa39-d628-47c3-a5d8-e45293827c3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>fbf1ac14-54d9-45eb-b8f2-58ee90b52cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pesquisar</value>
+      <webElementGuid>98117f0e-4410-4777-a154-24a67f58f512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmSearchNIFBranche:btnSearchTaxpayerBranch&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>32960cae-361b-490f-99b4-39e38ebd6579</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmSearchNIFBranche:btnSearchTaxpayerBranch']/span</value>
+      <webElementGuid>7cef1a26-7e4a-4559-8c16-2386d092b9ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passaporte'])[2]/following::span[1]</value>
+      <webElementGuid>196799e6-69d8-40f9-bfb3-664934695083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nº de Registo Comercial'])[2]/following::span[1]</value>
+      <webElementGuid>65cf844a-4664-4fce-aef3-ddac2b24f70a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de ID'])[1]/preceding::span[1]</value>
+      <webElementGuid>be1cf977-3f94-4d21-b021-8af44ff5dbee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[4]/preceding::span[2]</value>
+      <webElementGuid>2a7f5ecc-cc3d-4de4-b2ec-66c903fa321e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button/span</value>
+      <webElementGuid>3c1764b3-90e3-408a-af70-13cbb9ee2897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pesquisar' or . = 'Pesquisar')]</value>
+      <webElementGuid>f000d7f9-ca1e-4a24-b0a7-52dc23a22a3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
