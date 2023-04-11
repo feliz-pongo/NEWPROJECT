@@ -42,8 +42,11 @@ WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/titular_NIF_ui
 WebUI.sendKeys(findTestObject('Object Repository/Processo_Sub_Imovel/Nome_YURI do Contribuinte_frmSearchNIFBranchedialogSearchNIF-nameInput'), 'YURI')
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/titular_Pesquisar'))
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/td_ERNESTO YURI'))
-
-
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/icone_responsavel'))
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/tipo_direito'))
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/titular_Proprietrio'))
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/titular_Adicionar'))
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_ISENO'))
 
 
 

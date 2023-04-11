@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titular_Adicionar</name>
+   <tag></tag>
+   <elementGuidId>a0e53f65-cff3-4f53-aa84-dc2db8c5b743</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='formRegisterOwnerModal:btnAdicionar_Register_Owner']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a56cad62-a4d4-4ba9-b3a4-fa0d399a2eca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>4163694f-e807-4596-8863-1072d9a5bdc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Adicionar</value>
+      <webElementGuid>88cdf1a2-c96e-4734-8655-a93c48ee09fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formRegisterOwnerModal:btnAdicionar_Register_Owner&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>2ad5e6ee-8884-40ec-a1d3-15b41a4ded31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='formRegisterOwnerModal:btnAdicionar_Register_Owner']/span[2]</value>
+      <webElementGuid>0cc761c6-059c-4e59-992a-1a91a95706f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/following::span[2]</value>
+      <webElementGuid>d4511a9e-2a97-4da2-b006-b09025fb84e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='% Compropriedade*'])[1]/following::span[7]</value>
+      <webElementGuid>333d6b96-4634-4478-9af2-552111f0dd23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caro Utilizador'])[2]/preceding::span[1]</value>
+      <webElementGuid>ce039309-c205-4feb-ae4b-039218063f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Motivo de Rejeição'])[1]/preceding::span[3]</value>
+      <webElementGuid>60257da2-e968-40e5-90c8-e9e38aecb98d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button[2]/span[2]</value>
+      <webElementGuid>94f3a3d9-9036-42ba-8e04-1e1646c5432e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Adicionar' or . = 'Adicionar')]</value>
+      <webElementGuid>ca918381-c627-48d6-8ee1-b30f694d3a9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
