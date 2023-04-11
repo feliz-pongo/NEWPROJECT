@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Escolha um idioma e uma regioPortugus (BR)</name>
+   <tag></tag>
+   <elementGuidId>4e9bc771-aa39-43d3-9f72-11da9f96cd50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-application']/div/div/div/header/div/div/div[3]/div/div/nav/ul/li/div/div/button/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._lvb55za</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>884ca70d-2a02-4cc3-abc4-df4b811a1cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_lvb55za</value>
+      <webElementGuid>47d0ca72-f3dc-4312-a319-385435b3c560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Escolha um idioma e uma região:Português (BR)</value>
+      <webElementGuid>73935f04-9dae-441a-aa87-74a420ff7ad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-application&quot;)/div[1]/div[@class=&quot;t1bgcr6e&quot;]/div[1]/header[@class=&quot;_8iqo2b&quot;]/div[@class=&quot;_xi61peg&quot;]/div[@class=&quot;_hgs47m&quot;]/div[@class=&quot;_ni9axhe&quot;]/div[1]/div[@class=&quot;_cfvh61&quot;]/nav[1]/ul[@class=&quot;_1s04l2o&quot;]/li[@class=&quot;_1g2dfiu&quot;]/div[1]/div[@class=&quot;_e296pg&quot;]/button[@class=&quot;_1nb1naqj&quot;]/div[@class=&quot;_tzure7u&quot;]/div[@class=&quot;_lvb55za&quot;]</value>
+      <webElementGuid>b81c877a-bdc5-416f-94bd-98ed20303a5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-application']/div/div/div/header/div/div/div[3]/div/div/nav/ul/li/div/div/button/div/div</value>
+      <webElementGuid>2b810d7a-77ba-415e-a5dd-6ba5fa582463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pular para o conteúdo'])[1]/following::div[30]</value>
+      <webElementGuid>884fc0e0-2054-4b96-98a9-93f747956b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Português (BR)']/parent::*</value>
+      <webElementGuid>9721636a-241c-4261-a9fa-20d939cb9d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div</value>
+      <webElementGuid>8b7243e1-561b-44c2-b61f-9f6f27c3f4ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Escolha um idioma e uma região:Português (BR)' or . = 'Escolha um idioma e uma região:Português (BR)')]</value>
+      <webElementGuid>abd8a5ad-a49b-4524-9fd8-0e214e0e71c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

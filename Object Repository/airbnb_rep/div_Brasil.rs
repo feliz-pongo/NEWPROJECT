@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Brasil</name>
+   <tag></tag>
+   <elementGuidId>81339bbd-ef7e-4c19-8b19-0a4f60856edb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Português'])[2]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a._uhhvxco > div._a7a5sx</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3eee54ac-976a-46e4-80b9-ad2934603c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_a7a5sx</value>
+      <webElementGuid>1a216ba7-dd20-40ff-b94e-b6196f34dee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Brasil</value>
+      <webElementGuid>1a838c23-4c1f-4c73-9c82-9031a43ebf5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js-focus-visible&quot;]/body[1]/div[10]/section[1]/div[@class=&quot;c8b3k5d dir dir-ltr&quot;]/div[@class=&quot;pzqlnu dir dir-ltr&quot;]/div[@class=&quot;pzqlnu dir dir-ltr&quot;]/div[@class=&quot;d1k13iig dfhid5c dir dir-ltr&quot;]/div[@class=&quot;_fk86kl8&quot;]/section[2]/div[@class=&quot;_1618jc7&quot;]/ul[@class=&quot;_170oakq&quot;]/li[@class=&quot;_obr3yz&quot;]/a[@class=&quot;_uhhvxco&quot;]/div[@class=&quot;_a7a5sx&quot;]</value>
+      <webElementGuid>9dca7753-2b0c-414f-ae7c-e4ceb0f5ad73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Português'])[2]/following::div[1]</value>
+      <webElementGuid>db5fcedb-e18b-41d8-a69d-4b96fc36d58c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Escolha um idioma e uma região'])[1]/following::div[2]</value>
+      <webElementGuid>7d00d671-a03f-46e8-a111-32266d99dc39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Azərbaycan dili'])[1]/preceding::div[1]</value>
+      <webElementGuid>f276170b-ba2d-4685-821f-7073ea69fd0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Azərbaycan'])[1]/preceding::div[2]</value>
+      <webElementGuid>24621f99-09f1-47da-886a-fb555bfef662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Brasil']/parent::*</value>
+      <webElementGuid>a73eff63-9e39-403c-83a3-ba46f870e6c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/ul/li/a/div[2]</value>
+      <webElementGuid>af495e0e-460e-4798-89cf-40e478812672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Brasil' or . = 'Brasil')]</value>
+      <webElementGuid>3f4f6542-6562-4b19-a4c7-f34f9e21d92e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
