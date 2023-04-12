@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite_Patrimonio,Chrome 111.0.0.0,,,2023-04-12 13:27:48,2023-04-12 13:28:11,"23,018s",FAILED
+,,,,,,,
+Test Cases/Loginfont TC/Log,Chrome 111.0.0.0,,,2023-04-12 13:27:48,2023-04-12 13:28:00,"11,945s",PASSED
+"openBrowser(""http://10.129.105.196:7003/frontoffice/login"")",Chrome 111.0.0.0,,,2023-04-12 13:27:48,2023-04-12 13:27:54,"5,351s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/ID_utilizador""), ""Patrimonio2RF"")",Chrome 111.0.0.0,,,2023-04-12 13:27:54,2023-04-12 13:27:54,"0,424s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/input_Password_j_password""), ""PAT2ref"")",Chrome 111.0.0.0,,,2023-04-12 13:27:54,2023-04-12 13:27:55,"0,416s",PASSED
+"click(findTestObject(""Object Repository/Login/Iniciar_Sesso""))",Chrome 111.0.0.0,,,2023-04-12 13:27:55,2023-04-12 13:28:00,"5,515s",PASSED
+,,,,,,,
+Test Cases/Processo_Imovel TC/Submissão de Imovel,Chrome 111.0.0.0,,,2023-04-12 13:28:11,2023-04-12 13:28:11,"0,117s",FAILED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Patrimnio""))",Chrome 111.0.0.0,,,2023-04-12 13:28:11,2023-04-12 13:28:11,"0,102s",FAILED

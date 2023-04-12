@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Ajuda</name>
+   <name>div_Cadastrar-se</name>
    <tag></tag>
-   <elementGuidId>2c92ee55-56ca-4b99-b926-f0f4d144ff27</elementGuidId>
+   <elementGuidId>0b88904a-e40c-42fa-8eb6-71abd4535a98</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//a[@id='help-center-link']/div/div</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>div._tzure7u > div._lvb55za</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-application']/div/div/div/header/div/div/div[3]/div/div/nav/ul/li[5]/div/div/button/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c4e49e2d-1432-40b8-8784-aca1ab1be130</webElementGuid>
+      <webElementGuid>305a0690-20a9-426c-836e-51f87524c19d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,86 +30,86 @@
       <name>class</name>
       <type>Main</type>
       <value>_lvb55za</value>
-      <webElementGuid>69f7f56c-53fe-430a-9072-04b4e512ad2e</webElementGuid>
+      <webElementGuid>f949dc86-d5a5-472e-b91b-cb19254d1366</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Ajuda</value>
-      <webElementGuid>9134f59f-2b94-4e7d-8336-2d12e31339ad</webElementGuid>
+      <value>Cadastrar-se</value>
+      <webElementGuid>ef73d624-1fcc-4c9a-bcbf-dbb2fc615170</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;help-center-link&quot;)/div[@class=&quot;_tzure7u&quot;]/div[@class=&quot;_lvb55za&quot;]</value>
-      <webElementGuid>5a7e817f-5e26-4a4d-b585-2c3426f8a478</webElementGuid>
+      <value>id(&quot;react-application&quot;)/div[1]/div[@class=&quot;t1bgcr6e&quot;]/div[1]/header[@class=&quot;_8iqo2b&quot;]/div[@class=&quot;_xi61peg&quot;]/div[@class=&quot;_hgs47m&quot;]/div[@class=&quot;_ni9axhe&quot;]/div[1]/div[@class=&quot;_cfvh61&quot;]/nav[1]/ul[@class=&quot;_1s04l2o&quot;]/li[@class=&quot;_1g2dfiu&quot;]/div[1]/div[@class=&quot;_e296pg&quot;]/button[@class=&quot;_1nb1naqj&quot;]/div[@class=&quot;_tzure7u&quot;]/div[@class=&quot;_lvb55za&quot;]</value>
+      <webElementGuid>50ccf5b2-42dc-469d-9ef4-7a366c514bad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='help-center-link']/div/div</value>
-      <webElementGuid>d7d8183f-0f73-448f-a1bb-25a6bd050cef</webElementGuid>
+      <value>//div[@id='react-application']/div/div/div/header/div/div/div[3]/div/div/nav/ul/li[5]/div/div/button/div/div</value>
+      <webElementGuid>5d2e3648-998e-47d2-afba-f29cd327cb15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Torne-se um anfitrião'])[1]/following::div[4]</value>
-      <webElementGuid>3e09280c-c05e-4029-81bf-77404846040b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajuda'])[1]/following::div[4]</value>
+      <webElementGuid>3b480e4c-f5a5-4f91-83de-e417f1f87486</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Escolha uma moeda:'])[1]/following::div[8]</value>
-      <webElementGuid>0d94dff2-34a5-4f6a-af83-d814805ed290</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Torne-se um anfitrião'])[1]/following::div[8]</value>
+      <webElementGuid>0b8e8bfe-88ec-4089-91cd-c46c4560ee06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cadastrar-se'])[1]/preceding::div[1]</value>
-      <webElementGuid>698fe4a4-06be-4b6d-8bbb-02084cb4109c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/preceding::div[1]</value>
+      <webElementGuid>6e0c8430-24b9-4746-8980-e02d1e83c6b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/preceding::div[5]</value>
-      <webElementGuid>cde2cb96-cf60-44ad-afd5-b3ef8ed8d03d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pausa'])[1]/preceding::div[6]</value>
+      <webElementGuid>f69a2947-e157-47d1-8d3b-fd9394d9bfae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Ajuda']/parent::*</value>
-      <webElementGuid>f0459b9c-445a-42ab-a442-44682569709f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Cadastrar-se']/parent::*</value>
+      <webElementGuid>1d761906-154b-493b-9967-f38cb49c4d3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/div/div/a/div/div</value>
-      <webElementGuid>96258ec0-3db0-4b4f-834b-e6c7b924d099</webElementGuid>
+      <value>//li[5]/div/div/button/div/div</value>
+      <webElementGuid>e8a0bc70-3566-48a3-81e3-2cc8a6b351f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Ajuda' or . = 'Ajuda')]</value>
-      <webElementGuid>ebff41fa-7f73-42d4-8b15-54929a3bb87b</webElementGuid>
+      <value>//div[(text() = 'Cadastrar-se' or . = 'Cadastrar-se')]</value>
+      <webElementGuid>cc1ae7b8-5d17-49e7-a1b7-5188b74db20e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

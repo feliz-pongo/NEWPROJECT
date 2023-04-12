@@ -19,10 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://www.airbnb.com.br/work')
 WebUI.maximizeWindow()
-WebUI.click(findTestObject('Object Repository/airbnb_rep/div_Escolha um idioma e uma regioPortugus (BR)'))
-WebUI.click(findTestObject('Object Repository/airbnb_rep/div_Brasil'))
-WebUI.click(findTestObject('Object Repository/airbnb_rep/div_Ajuda'))
-WebUI.click(findTestObject('Object Repository/airbnb_rep/div_Como cancelar a reserva de uma acomodao'))
+WebUI.sendKeys(findTestObject('Object Repository/airbnb_rep/input_Para comear, adicione seu email profissional_work-email'), 'TESTE')
+WebUI.click(findTestObject('Object Repository/airbnb_rep/div_Cadastrar-se'))
+WebUI.click(findTestObject('Object Repository/airbnb_rep/div_Entrar ou cadastrar-seBem-vindo ao Airbnb'))
 
 
 
