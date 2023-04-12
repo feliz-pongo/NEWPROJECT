@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Cadastrar-se</name>
+   <name>div_Torne-se um anfitrio</name>
    <tag></tag>
-   <elementGuidId>0b88904a-e40c-42fa-8eb6-71abd4535a98</elementGuidId>
+   <elementGuidId>bc735287-34cf-49a9-a966-a5edad99626b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='react-application']/div/div/div/header/div/div/div[3]/div/div/nav/ul/li[5]/div/div/button/div/div</value>
+         <value>//div[@id='react-application']/div/div/div/header/div/div/div[3]/div/div/nav/ul/li[3]/div/div/button/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>305a0690-20a9-426c-836e-51f87524c19d</webElementGuid>
+      <webElementGuid>e9113bc9-2d4a-4bde-af0e-78f63164dac4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>_lvb55za</value>
-      <webElementGuid>f949dc86-d5a5-472e-b91b-cb19254d1366</webElementGuid>
+      <webElementGuid>5cdd8553-82b5-4e74-a2a3-945c7642c46c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Cadastrar-se</value>
-      <webElementGuid>ef73d624-1fcc-4c9a-bcbf-dbb2fc615170</webElementGuid>
+      <value>Torne-se um anfitrião</value>
+      <webElementGuid>3851acc4-3c69-420c-8932-2aba60b845c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,70 +46,62 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-application&quot;)/div[1]/div[@class=&quot;t1bgcr6e&quot;]/div[1]/header[@class=&quot;_8iqo2b&quot;]/div[@class=&quot;_xi61peg&quot;]/div[@class=&quot;_hgs47m&quot;]/div[@class=&quot;_ni9axhe&quot;]/div[1]/div[@class=&quot;_cfvh61&quot;]/nav[1]/ul[@class=&quot;_1s04l2o&quot;]/li[@class=&quot;_1g2dfiu&quot;]/div[1]/div[@class=&quot;_e296pg&quot;]/button[@class=&quot;_1nb1naqj&quot;]/div[@class=&quot;_tzure7u&quot;]/div[@class=&quot;_lvb55za&quot;]</value>
-      <webElementGuid>50ccf5b2-42dc-469d-9ef4-7a366c514bad</webElementGuid>
+      <webElementGuid>6d98b51b-1a32-4862-b836-e5bcb5839cab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='react-application']/div/div/div/header/div/div/div[3]/div/div/nav/ul/li[5]/div/div/button/div/div</value>
-      <webElementGuid>5d2e3648-998e-47d2-afba-f29cd327cb15</webElementGuid>
+      <value>//div[@id='react-application']/div/div/div/header/div/div/div[3]/div/div/nav/ul/li[3]/div/div/button/div/div</value>
+      <webElementGuid>6223d5cc-d0b0-418b-9fac-c78cb67cb721</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajuda'])[1]/following::div[4]</value>
-      <webElementGuid>3b480e4c-f5a5-4f91-83de-e417f1f87486</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Escolha uma moeda:'])[1]/following::div[4]</value>
+      <webElementGuid>d7c6b178-0089-433b-97c1-f9ff9511257b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Torne-se um anfitrião'])[1]/following::div[8]</value>
-      <webElementGuid>0b8e8bfe-88ec-4089-91cd-c46c4560ee06</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajuda'])[1]/preceding::div[1]</value>
+      <webElementGuid>3e4f161e-10e0-4fb4-aaec-5e5316fb3a7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/preceding::div[1]</value>
-      <webElementGuid>6e0c8430-24b9-4746-8980-e02d1e83c6b8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cadastrar-se'])[1]/preceding::div[5]</value>
+      <webElementGuid>c1a5f5fc-8ea1-4f5f-90c8-0ea9971e9be1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pausa'])[1]/preceding::div[6]</value>
-      <webElementGuid>f69a2947-e157-47d1-8d3b-fd9394d9bfae</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Cadastrar-se']/parent::*</value>
-      <webElementGuid>1d761906-154b-493b-9967-f38cb49c4d3b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Torne-se um anfitrião']/parent::*</value>
+      <webElementGuid>2e532fda-742b-4bd0-a07e-491921ad4041</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/div/div/button/div/div</value>
-      <webElementGuid>e8a0bc70-3566-48a3-81e3-2cc8a6b351f4</webElementGuid>
+      <value>//li[3]/div/div/button/div/div</value>
+      <webElementGuid>f80bd722-9d55-4abc-8563-63db7b803a03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Cadastrar-se' or . = 'Cadastrar-se')]</value>
-      <webElementGuid>cc1ae7b8-5d17-49e7-a1b7-5188b74db20e</webElementGuid>
+      <value>//div[(text() = 'Torne-se um anfitrião' or . = 'Torne-se um anfitrião')]</value>
+      <webElementGuid>125bad40-76f0-4c40-9fa1-6c88266cd471</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://www.airbnb.com.br/work')
 WebUI.maximizeWindow()
-WebUI.sendKeys(findTestObject('Object Repository/airbnb_rep/input_Para comear, adicione seu email profissional_work-email'), 'TESTE')
-WebUI.click(findTestObject('Object Repository/airbnb_rep/div_Cadastrar-se'))
-WebUI.click(findTestObject('Object Repository/airbnb_rep/div_Entrar ou cadastrar-seBem-vindo ao Airbnb'))
+WebUI.click(findTestObject('Object Repository/airbnb_rep/input_Para comear, adicione seu email profissional_work-email'))
+WebUI.click(findTestObject('Object Repository/airbnb_rep/div_Torne-se um anfitrio'))
+
 
 
 

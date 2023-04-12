@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Para comear, adicione seu email profissional_work-email</name>
    <tag></tag>
-   <elementGuidId>5a073b68-3718-4b29-a19e-fdd45e7d89c5</elementGuidId>
+   <elementGuidId>93c57943-6f0b-4007-bf3c-1297571adfce</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>813813bf-19ca-47c1-ba3e-40f2ed310834</webElementGuid>
+      <webElementGuid>454fdc9c-757f-443f-a41c-2534ea8737ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>_1dff7f46 focus-visible</value>
-      <webElementGuid>2e47f535-2c82-4962-bf5e-5f02cf2e409a</webElementGuid>
+      <webElementGuid>2794492d-b5b8-4f03-b221-972e2c206956</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>work-email</value>
-      <webElementGuid>9a8616fb-c857-4836-b45d-e178faf5d18f</webElementGuid>
+      <webElementGuid>3093b6f4-6c9c-426b-b83d-17a4c6c37f0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>work-email</value>
-      <webElementGuid>55ea1179-62d7-49aa-b63f-8f2bbb9254a0</webElementGuid>
+      <webElementGuid>bd620751-2687-44a9-b570-269fc8274aa3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>90b7ebec-8394-4071-bb14-8046ff9a22c9</webElementGuid>
+      <webElementGuid>14f7976a-cfc6-4eb9-bd91-8558f5fe9abe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;work-email&quot;)</value>
-      <webElementGuid>c74a43e6-d847-469a-8fe6-c9c4bca6d9f9</webElementGuid>
+      <webElementGuid>68fba876-be01-40ce-bb58-9dd3c63ed4e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='work-email']</value>
-      <webElementGuid>a6b6c72e-03f7-4bf4-8dd7-950930175cd9</webElementGuid>
+      <webElementGuid>b8fc4693-025f-4a15-8078-627be66234ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='react-application']/div/div/div/main/div/div/section/div/div/div[2]/div/div/div/div[3]/form/div/div[2]/div/div/div/div/div/input</value>
-      <webElementGuid>a6a747f8-051b-4c37-bd74-5a5aa86f8623</webElementGuid>
+      <webElementGuid>186bfb6f-9861-4f4d-ad71-e450bc65f8b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>968524dc-3bbd-4b7c-8c3c-40b9af1d0e0e</webElementGuid>
+      <webElementGuid>4578ca09-5ef3-4beb-88b7-379770266144</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'work-email' and @name = 'work-email' and @type = 'text']</value>
-      <webElementGuid>44c6a031-a354-4af1-90bb-5d96ec342eb9</webElementGuid>
+      <webElementGuid>0246bea2-63c1-4cdf-b25f-034be8bc4c7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
