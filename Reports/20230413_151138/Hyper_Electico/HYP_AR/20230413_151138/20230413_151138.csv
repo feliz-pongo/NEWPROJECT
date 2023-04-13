@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+HYP_AR,Chrome 111.0.0.0,,,2023-04-13 15:11:44,2023-04-13 15:12:12,"27,547s",PASSED
+,,,,,,,
+Test Cases/HYE/HYPER,Chrome 111.0.0.0,,,2023-04-13 15:11:44,2023-04-13 15:12:12,"27,077s",PASSED
+"openBrowser(""https://hiper.ao/"")",Chrome 111.0.0.0,,,2023-04-13 15:11:45,2023-04-13 15:12:07,"22,415s",PASSED
+maximizeWindow(),Chrome 111.0.0.0,,,2023-04-13 15:12:07,2023-04-13 15:12:08,"0,416s",PASSED
+"click(findTestObject(""Object Repository/HYPER ELE/a_Ar Condicionados""))",Chrome 111.0.0.0,,,2023-04-13 15:12:08,2023-04-13 15:12:12,"3,654s",PASSED

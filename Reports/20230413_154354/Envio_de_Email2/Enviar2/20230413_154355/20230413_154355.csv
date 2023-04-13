@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Enviar2,Chrome 111.0.0.0,,,2023-04-13 15:43:58,2023-04-13 15:44:06,"7,513s",PASSED
+,,,,,,,
+Test Cases/Email2/Inicial pag,Chrome 111.0.0.0,,,2023-04-13 15:43:58,2023-04-13 15:44:06,"7,327s",PASSED
+"openBrowser(""https://mail.google.com/mail/u/0/#inbox"")",Chrome 111.0.0.0,,,2023-04-13 15:43:59,2023-04-13 15:44:04,"5,128s",PASSED
+"sendKeys(findTestObject(""Object Repository/EnviarEmail2/input_Continuar para o Gmail_identifier""), ""felizpongo980@gmail.com"")",Chrome 111.0.0.0,,,2023-04-13 15:44:04,2023-04-13 15:44:04,"0,578s",PASSED
+"click(findTestObject(""Object Repository/EnviarEmail2/span_Criar conta""))",Chrome 111.0.0.0,,,2023-04-13 15:44:04,2023-04-13 15:44:06,"1,355s",PASSED

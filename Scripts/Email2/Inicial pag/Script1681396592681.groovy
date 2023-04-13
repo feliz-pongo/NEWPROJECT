@@ -16,9 +16,11 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-WebUI.openBrowser('https://hiper.ao/')
-WebUI.maximizeWindow()
-WebUI.click(findTestObject('Object Repository/HYPER ELE/a_Ar Condicionados'))
-
+WebUI.openBrowser('https://mail.google.com/mail/u/0/#inbox')
+WebUI.sendKeys(findTestObject('Object Repository/EnviarEmail2/input_Continuar para o Gmail_identifier'), 'felizpongo980@gmail.com')
+WebUI.click(findTestObject('Object Repository/EnviarEmail2/span_Criar conta'))
+WebUI.click(findTestObject('Object Repository/EnviarEmail2/span_Para a minha utilizao pessoal'))
+WebUI.sendKeys(findTestObject('Object Repository/EnviarEmail2/input_Introduza o seu nome_firstName'), 'Pedro')
+WebUI.sendKeys(findTestObject('Object Repository/EnviarEmail2/input_Introduza o seu nome_lastName'), 'Manuel')
 
 

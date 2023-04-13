@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Criar conta</name>
+   <tag></tag>
+   <elementGuidId>feaac4f8-136c-4143-85f6-0e75c617d52c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.ksBjEc.lKxP2d.LQeN7.FliLIb.uRo0Xe.TrZEUc.Xf9GD.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe > span.VfPpkd-vQzf8d</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yDmH0d']/c-wiz/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0d060e9e-4d71-4ad4-8dd9-21521f29f5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>V67aGc</value>
+      <webElementGuid>9e6f7310-5d45-451e-ada6-adda3afe68d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-vQzf8d</value>
+      <webElementGuid>df1ba339-7d92-4988-bcf4-e6b859573879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Criar conta</value>
+      <webElementGuid>351d7e21-7acf-45f5-9470-768ac615a778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;g98c7c&quot;]/div[@class=&quot;aDGQwe&quot;]/div[@class=&quot;eKnrVb&quot;]/div[@class=&quot;CYBold&quot;]/div[@class=&quot;Z6Ep7d&quot;]/div[@class=&quot;dqyqtf&quot;]/div[@class=&quot;XOrBDc&quot;]/div[@class=&quot;ZOeJnf&quot;]/div[@class=&quot;VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd&quot;]/div[1]/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d LQeN7 FliLIb uRo0Xe TrZEUc Xf9GD VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe&quot;]/span[@class=&quot;VfPpkd-vQzf8d&quot;]</value>
+      <webElementGuid>a6c8748a-8754-4a73-9a1c-06ddef5e0a46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/button/span</value>
+      <webElementGuid>f2e2bcc2-8abf-4595-b876-01f6f1f8d85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seguinte'])[1]/following::span[1]</value>
+      <webElementGuid>51ace728-ecbc-4f35-be2d-07a8e467ed14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saiba mais'])[1]/following::span[2]</value>
+      <webElementGuid>ac4e1ba5-3248-474c-b9e3-43484d10779a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Para a minha utilização pessoal'])[1]/preceding::span[3]</value>
+      <webElementGuid>2227bdff-ce1b-4daa-990c-199f0c26337d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Para a criança'])[1]/preceding::span[5]</value>
+      <webElementGuid>5b5cb823-8311-4ea6-a050-8cd824e77009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Criar conta']/parent::*</value>
+      <webElementGuid>a4aa310c-30fb-41f8-9318-f853449fa1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div/div/div/button/span</value>
+      <webElementGuid>7b0be346-4181-4ea9-9296-f4f2af13a0ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Criar conta' or . = 'Criar conta')]</value>
+      <webElementGuid>1a159852-a5b6-4462-8a53-bf030408e3c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
