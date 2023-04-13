@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Enviar,Chrome 111.0.0.0,,,2023-04-13 11:48:54,2023-04-13 11:48:59,"5,888s",PASSED
+,,,,,,,
+Test Cases/Email/pagina_inicial,Chrome 111.0.0.0,,,2023-04-13 11:48:54,2023-04-13 11:48:59,"5,682s",PASSED
+"openBrowser(""https://accounts.google.com/InteractiveLogin/identifier?elo=1&ifkv=AQMjQ7Q306nrfN1jKD31Qrhcv0WAxboYQudUr9eiSbhOOHqWRMbrR1OPceKbsCzd4N_nj_fqq3so-Q&flowName=GlifWebSignIn&flowEntry=ServiceLogin"")",Chrome 111.0.0.0,,,2023-04-13 11:48:54,2023-04-13 11:48:59,"4,728s",PASSED
+maximizeWindow(),Chrome 111.0.0.0,,,2023-04-13 11:48:59,2023-04-13 11:48:59,"0,154s",PASSED
+"sendKeys(findTestObject(""Object Repository/Envio de Email/input_Usar a sua Conta Google_identifier""), ""felizpongo57@gmail.com"")",Chrome 111.0.0.0,,,2023-04-13 11:48:59,2023-04-13 11:48:59,"0,502s",PASSED
