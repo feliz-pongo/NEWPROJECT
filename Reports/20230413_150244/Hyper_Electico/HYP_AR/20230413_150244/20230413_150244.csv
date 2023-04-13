@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+HYP_AR,Chrome 111.0.0.0,,,2023-04-13 15:02:50,2023-04-13 15:04:14,"1m - 24,391s",FAILED
+,,,,,,,
+Test Cases/HYE/HYPER,Chrome 111.0.0.0,,,2023-04-13 15:04:10,2023-04-13 15:04:14,"4,622s",FAILED
+"openBrowser(""https://hiper.ao/"")",Chrome 111.0.0.0,,,2023-04-13 15:04:10,2023-04-13 15:04:14,"4,607s",FAILED
