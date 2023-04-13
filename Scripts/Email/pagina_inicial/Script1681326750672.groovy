@@ -17,10 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://www.airbnb.com.br/work')
+WebUI.openBrowser('https://accounts.google.com/InteractiveLogin/identifier?elo=1&ifkv=AQMjQ7Q306nrfN1jKD31Qrhcv0WAxboYQudUr9eiSbhOOHqWRMbrR1OPceKbsCzd4N_nj_fqq3so-Q&flowName=GlifWebSignIn&flowEntry=ServiceLogin')
 WebUI.maximizeWindow()
-WebUI.click(findTestObject('Object Repository/airbnb_rep/input_Para comear, adicione seu email profissional_work-email'))
-WebUI.click(findTestObject('Object Repository/airbnb_rep/div_Torne-se um anfitrio'))
+WebUI.sendKeys(findTestObject('Object Repository/Envio de Email/input_Usar a sua Conta Google_identifier'), 'felizpongo57@gmail.com')
+
 
 
 

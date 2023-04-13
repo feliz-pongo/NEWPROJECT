@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/span_Proprieda
 
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_REGIME JURDICO'))
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DO DECLARANTE'))
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/span_ui-button_1'))
 WebUI.sendKeys(findTestObject('Object Repository/Processo_Sub_Imovel/input_Nome do Contribuinte_frmSearchNIFBranchedialogSearchNIF-nameInput'), 'MARCOS')
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/span_Pesquisar'))
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/td_ADHEMAR MARCOS'))
@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/na_qualidade_d
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/li_Tcnico de Impostos'))
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DO IMVEL'))
 WebUI.sendKeys(findTestObject('Object Repository/Processo_Sub_Imovel/input_Nome da Propriedade_frmPatrimonytvSuporteaccPrincipalpropertyName'), 'TESTE')
-WebUI.click(findTestObject('null'))
+
 WebUI.sendKeys(findTestObject('Object Repository/Processo_Sub_Imovel/Valor Declarado (Kz)_frmPatrimonytvSuporteaccPrincipaldeclaredValue_input'),'Keys.chord(Keys.BACK_SPACE' )
 WebUI.click(findTestObject('Object Repository/Processo_Sub_Imovel/div_IDENTIFICAO DE TITULARES'))
 

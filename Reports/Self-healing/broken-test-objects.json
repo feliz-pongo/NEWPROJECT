@@ -49,6 +49,16 @@
       "proposedLocatorMethod": "CSS",
       "recoveryMethod": "CSS",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/airbnb_rep/div_Entrar ou cadastrar-seBem-vindo ao Airbnb_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/ID_utilizador",
+      "brokenLocator": "//input[@id\u003d\u0027j_username\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "#j_username",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/ID_utilizador_CSS.png"
     }
   ]
 }

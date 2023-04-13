@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite_Patrimonio,Chrome 111.0.0.0,,,2023-04-13 11:28:29,2023-04-13 11:30:01,"1m - 32,042s",FAILED
+,,,,,,,
+Test Cases/Loginfont TC/Log,Chrome 111.0.0.0,,,2023-04-13 11:28:30,2023-04-13 11:29:23,"53,143s",PASSED
+"openBrowser(""http://10.129.105.196:7003/frontoffice/login"")",Chrome 111.0.0.0,,,2023-04-13 11:28:30,2023-04-13 11:29:06,"35,966s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/ID_utilizador""), ""Patrimonio2RF"")",Chrome 111.0.0.0,,,2023-04-13 11:29:06,2023-04-13 11:29:13,"7,422s",PASSED
+"sendKeys(findTestObject(""Object Repository/Login/input_Password_j_password""), ""PAT2ref"")",Chrome 111.0.0.0,,,2023-04-13 11:29:13,2023-04-13 11:29:14,"0,431s",PASSED
+"click(findTestObject(""Object Repository/Login/Iniciar_Sesso""))",Chrome 111.0.0.0,,,2023-04-13 11:29:14,2023-04-13 11:29:23,"9,039s",PASSED
+,,,,,,,
+Test Cases/Processo_Imovel TC/Submissão de Imovel,Chrome 111.0.0.0,,,2023-04-13 11:29:56,2023-04-13 11:29:56,"0,135s",FAILED
+"click(findTestObject(""Object Repository/Processo_Sub_Imovel/span_Patrimnio""))",Chrome 111.0.0.0,,,2023-04-13 11:29:56,2023-04-13 11:29:56,"0,120s",FAILED
+,,,,,,,
+Test Cases/Email/pagina_inicial,Chrome 111.0.0.0,,,2023-04-13 11:29:56,2023-04-13 11:30:01,"5,339s",PASSED
+"openBrowser(""https://accounts.google.com/InteractiveLogin/identifier?elo=1&ifkv=AQMjQ7Q306nrfN1jKD31Qrhcv0WAxboYQudUr9eiSbhOOHqWRMbrR1OPceKbsCzd4N_nj_fqq3so-Q&flowName=GlifWebSignIn&flowEntry=ServiceLogin"")",Chrome 111.0.0.0,,,2023-04-13 11:29:56,2023-04-13 11:30:01,"4,389s",PASSED
+maximizeWindow(),Chrome 111.0.0.0,,,2023-04-13 11:30:01,2023-04-13 11:30:01,"0,158s",PASSED
+"sendKeys(findTestObject(""Object Repository/Envio de Email/input_Usar a sua Conta Google_identifier""), ""felizpongo57@gmail.com"")",Chrome 111.0.0.0,,,2023-04-13 11:30:01,2023-04-13 11:30:01,"0,428s",PASSED
