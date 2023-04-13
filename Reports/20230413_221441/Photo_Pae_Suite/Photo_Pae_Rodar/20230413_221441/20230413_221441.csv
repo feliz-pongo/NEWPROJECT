@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Photo_Pae_Rodar,Chrome 111.0.0.0,,,2023-04-13 22:14:49,2023-04-13 22:15:11,"22,211s",PASSED
+,,,,,,,
+Test Cases/Photo/Photo_Pae,Chrome 111.0.0.0,,,2023-04-13 22:14:49,2023-04-13 22:15:11,"21,731s",PASSED
+"openBrowser(""https://www.photopea.com/"")",Chrome 111.0.0.0,,,2023-04-13 22:14:50,2023-04-13 22:14:57,"7,397s",PASSED
+maximizeWindow(),Chrome 111.0.0.0,,,2023-04-13 22:14:57,2023-04-13 22:14:58,"0,384s",PASSED
+"click(findTestObject(""Object Repository/Photo_Pae_Ob/div_This Device""))",Chrome 111.0.0.0,,,2023-04-13 22:14:58,2023-04-13 22:14:59,"0,853s",PASSED
+"click(findTestObject(""Object Repository/Photo_Pae_Ob/div_PeaDrive""))",Chrome 111.0.0.0,,,2023-04-13 22:14:59,2023-04-13 22:14:59,"0,891s",PASSED
+"click(findTestObject(""Object Repository/Photo_Pae_Ob/div_Dropbox""))",Chrome 111.0.0.0,,,2023-04-13 22:14:59,2023-04-13 22:15:01,"1,914s",PASSED
+"click(findTestObject(""Object Repository/Photo_Pae_Ob/div_Google Drive""))",Chrome 111.0.0.0,,,2023-04-13 22:15:01,2023-04-13 22:15:02,"0,831s",PASSED
+"click(findTestObject(""Object Repository/Photo_Pae_Ob/div_Shared Drives""))",Chrome 111.0.0.0,,,2023-04-13 22:15:02,2023-04-13 22:15:07,"5,139s",PASSED
+"click(findTestObject(""Object Repository/Photo_Pae_Ob/div_Private Folder""))",Chrome 111.0.0.0,,,2023-04-13 22:15:07,2023-04-13 22:15:11,"3,553s",PASSED

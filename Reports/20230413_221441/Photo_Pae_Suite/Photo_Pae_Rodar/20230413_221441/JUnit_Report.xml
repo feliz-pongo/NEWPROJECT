@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Photo_Pae_Rodar" time="22.211" tests="1" failures="0" errors="0">
+   <testsuite name="Photo_Pae_Rodar" tests="1" failures="0" errors="0" time="22.211" skipped="0" timestamp="2023-04-13 22:14:49" hostname="feliz.pongo - NOT-TIS-CON22.TISTECH.LAN" id="Test Suites/Photo_Pae_Suite/Photo_Pae_Rodar">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\feliz.pongo\\git\\NEWPROJECT\\Reports\\20230413_221441\\Photo_Pae_Suite\\Photo_Pae_Rodar\\20230413_221441"/>
+         <property name="logFiles" value="C:\\Users\\feliz.pongo\\git\\NEWPROJECT\\Reports\\20230413_221441\\Photo_Pae_Suite\\Photo_Pae_Rodar\\20230413_221441\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="feliz.pongo - NOT-TIS-CON22.TISTECH.LAN"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 111.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.2"/>
+         <property name="sessionId" value="23b33c94de3aa39365892d8d01e76e80"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Photo/Photo_Pae" time="21.731" classname="Test Cases/Photo/Photo_Pae" status="PASSED">
+         <system-out><![CDATA[2023-04-13 22:14:49 - [TEST_CASE][PASSED] - Test Cases/Photo/Photo_Pae: Test Cases/Photo/Photo_Pae
+
+2023-04-13 22:14:50 - [TEST_STEP][PASSED] - openBrowser("https://www.photopea.com/"): Browser is opened with url: 'https://www.photopea.com/'
+
+2023-04-13 22:14:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-04-13 22:14:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-04-13 22:14:57 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.photopea.com/'
+
+2023-04-13 22:14:57 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-04-13 22:14:58 - [MESSAGE][PASSED] - Current window maximized
+
+2023-04-13 22:14:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Photo_Pae_Ob/div_This Device")): Object: 'Object Repository/Photo_Pae_Ob/div_This Device' is clicked on
+
+2023-04-13 22:14:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Photo_Pae_Ob/div_This Device' is clicked on
+
+2023-04-13 22:14:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Photo_Pae_Ob/div_PeaDrive")): Object: 'Object Repository/Photo_Pae_Ob/div_PeaDrive' is clicked on
+
+2023-04-13 22:14:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Photo_Pae_Ob/div_PeaDrive' is clicked on
+
+2023-04-13 22:14:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Photo_Pae_Ob/div_Dropbox")): Object: 'Object Repository/Photo_Pae_Ob/div_Dropbox' is clicked on
+
+2023-04-13 22:15:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Photo_Pae_Ob/div_Dropbox' is clicked on
+
+2023-04-13 22:15:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Photo_Pae_Ob/div_Google Drive")): Object: 'Object Repository/Photo_Pae_Ob/div_Google Drive' is clicked on
+
+2023-04-13 22:15:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Photo_Pae_Ob/div_Google Drive' is clicked on
+
+2023-04-13 22:15:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Photo_Pae_Ob/div_Shared Drives")): Object: 'Object Repository/Photo_Pae_Ob/div_Shared Drives' is clicked on
+
+2023-04-13 22:15:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Photo_Pae_Ob/div_Shared Drives' is clicked on
+
+2023-04-13 22:15:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Photo_Pae_Ob/div_Private Folder")): Object: 'Object Repository/Photo_Pae_Ob/div_Private Folder' is clicked on
+
+2023-04-13 22:15:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Photo_Pae_Ob/div_Private Folder' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-04-13 22:14:49 - [TEST_SUITE][PASSED] - Photo_Pae_Rodar: Test Cases/Photo/Photo_Pae]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
