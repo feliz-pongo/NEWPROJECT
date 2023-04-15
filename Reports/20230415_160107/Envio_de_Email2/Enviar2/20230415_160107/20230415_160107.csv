@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Enviar2,Chrome 111.0.0.0,,,2023-04-15 16:01:10,2023-04-15 16:01:27,"16,896s",PASSED
+,,,,,,,
+Test Cases/Email2/Inicial pag,Chrome 111.0.0.0,,,2023-04-15 16:01:10,2023-04-15 16:01:21,"10,936s",PASSED
+"openBrowser(""https://mail.google.com/mail/u/0/#inbox"")",Chrome 111.0.0.0,,,2023-04-15 16:01:11,2023-04-15 16:01:15,"4,364s",PASSED
+"sendKeys(findTestObject(""Object Repository/EnviarEmail2/input_Continuar para o Gmail_identifier""), ""felizpongo980@gmail.com"")",Chrome 111.0.0.0,,,2023-04-15 16:01:15,2023-04-15 16:01:16,"1,379s",PASSED
+"click(findTestObject(""Object Repository/EnviarEmail2/span_Criar conta""))",Chrome 111.0.0.0,,,2023-04-15 16:01:16,2023-04-15 16:01:17,"0,507s",PASSED
+"click(findTestObject(""Object Repository/EnviarEmail2/span_Para a minha utilizao pessoal""))",Chrome 111.0.0.0,,,2023-04-15 16:01:17,2023-04-15 16:01:20,"2,975s",PASSED
+"sendKeys(findTestObject(""Object Repository/EnviarEmail2/input_Introduza o seu nome_firstName""), ""Pedro"")",Chrome 111.0.0.0,,,2023-04-15 16:01:20,2023-04-15 16:01:21,"0,866s",PASSED
+"sendKeys(findTestObject(""Object Repository/EnviarEmail2/input_Introduza o seu nome_lastName""), ""Manuel"")",Chrome 111.0.0.0,,,2023-04-15 16:01:21,2023-04-15 16:01:21,"0,581s",PASSED
+,,,,,,,
+Test Cases/Email/pagina_inicial,Chrome 111.0.0.0,,,2023-04-15 16:01:21,2023-04-15 16:01:27,"5,779s",PASSED
+"openBrowser(""https://accounts.google.com/InteractiveLogin/identifier?elo=1&ifkv=AQMjQ7Q306nrfN1jKD31Qrhcv0WAxboYQudUr9eiSbhOOHqWRMbrR1OPceKbsCzd4N_nj_fqq3so-Q&flowName=GlifWebSignIn&flowEntry=ServiceLogin"")",Chrome 111.0.0.0,,,2023-04-15 16:01:22,2023-04-15 16:01:25,"3,725s",PASSED
+maximizeWindow(),Chrome 111.0.0.0,,,2023-04-15 16:01:25,2023-04-15 16:01:26,"0,153s",PASSED
+"sendKeys(findTestObject(""Object Repository/Envio de Email/input_Usar a sua Conta Google_identifier""), ""felizpongo57@gmail.com"")",Chrome 111.0.0.0,,,2023-04-15 16:01:26,2023-04-15 16:01:27,"1,109s",PASSED
+"click(findTestObject(""Object Repository/Envio de Email/span_Seguinte""))",Chrome 111.0.0.0,,,2023-04-15 16:01:27,2023-04-15 16:01:27,"0,518s",PASSED
