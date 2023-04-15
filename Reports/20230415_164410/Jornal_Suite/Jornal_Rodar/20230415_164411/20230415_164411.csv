@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Jornal_Rodar,Chrome 111.0.0.0,,,2023-04-15 16:44:14,2023-04-15 16:44:30,"16,144s",PASSED
+,,,,,,,
+Test Cases/Jornal TC/JornalPage,Chrome 111.0.0.0,,,2023-04-15 16:44:14,2023-04-15 16:44:30,"15,953s",PASSED
+"openBrowser(""https://www.jornaldeangola.ao/ao/noticias/index.php?tipo=1&idSec=20"")",Chrome 111.0.0.0,,,2023-04-15 16:44:15,2023-04-15 16:44:23,"8,379s",PASSED
+maximizeWindow(),Chrome 111.0.0.0,,,2023-04-15 16:44:23,2023-04-15 16:44:23,"0,142s",PASSED
+"click(findTestObject(""Object Repository/JR/a_REGIES""))",Chrome 111.0.0.0,,,2023-04-15 16:44:23,2023-04-15 16:44:24,"0,723s",PASSED
+"click(findTestObject(""Object Repository/JR/a_SOCIEDADE""))",Chrome 111.0.0.0,,,2023-04-15 16:44:24,2023-04-15 16:44:25,"0,669s",PASSED
+"click(findTestObject(""Object Repository/JR/a_ECONOMIA""))",Chrome 111.0.0.0,,,2023-04-15 16:44:25,2023-04-15 16:44:25,"0,678s",PASSED
+"click(findTestObject(""Object Repository/JR/a_CULTURA""))",Chrome 111.0.0.0,,,2023-04-15 16:44:25,2023-04-15 16:44:26,"0,706s",PASSED
+"click(findTestObject(""Object Repository/JR/a_DESPORTO""))",Chrome 111.0.0.0,,,2023-04-15 16:44:26,2023-04-15 16:44:27,"0,729s",PASSED
+"click(findTestObject(""Object Repository/JR/a_ENTREVISTA""))",Chrome 111.0.0.0,,,2023-04-15 16:44:27,2023-04-15 16:44:27,"0,704s",PASSED
+"click(findTestObject(""Object Repository/JR/a_REPORTAGEM""))",Chrome 111.0.0.0,,,2023-04-15 16:44:27,2023-04-15 16:44:28,"0,641s",PASSED
+"click(findTestObject(""Object Repository/JR/a_OPINIO""))",Chrome 111.0.0.0,,,2023-04-15 16:44:28,2023-04-15 16:44:29,"0,794s",PASSED
+"click(findTestObject(""Object Repository/JR/a_MUNDO""))",Chrome 111.0.0.0,,,2023-04-15 16:44:29,2023-04-15 16:44:29,"0,683s",PASSED
+"click(findTestObject(""Object Repository/JR/a_ASSINATURAS""))",Chrome 111.0.0.0,,,2023-04-15 16:44:29,2023-04-15 16:44:30,"0,795s",PASSED

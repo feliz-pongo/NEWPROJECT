@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Jornal_Rodar" time="16.144" tests="1" failures="0" errors="0">
+   <testsuite name="Jornal_Rodar" tests="1" failures="0" errors="0" time="16.144" skipped="0" timestamp="2023-04-15 16:44:14" hostname="feliz.pongo - NOT-TIS-CON22.TISTECH.LAN" id="Test Suites/Jornal_Suite/Jornal_Rodar">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\feliz.pongo\\git\\NEWPROJECT\\Reports\\20230415_164410\\Jornal_Suite\\Jornal_Rodar\\20230415_164411"/>
+         <property name="logFiles" value="C:\\Users\\feliz.pongo\\git\\NEWPROJECT\\Reports\\20230415_164410\\Jornal_Suite\\Jornal_Rodar\\20230415_164411\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="feliz.pongo - NOT-TIS-CON22.TISTECH.LAN"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 111.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.4"/>
+         <property name="sessionId" value="7e6c58f97bc8c8a7d2b2e135f2feebce"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Jornal TC/JornalPage" time="15.953" classname="Test Cases/Jornal TC/JornalPage" status="PASSED">
+         <system-out><![CDATA[2023-04-15 16:44:14 - [TEST_CASE][PASSED] - Test Cases/Jornal TC/JornalPage: Test Cases/Jornal TC/JornalPage
+
+2023-04-15 16:44:15 - [TEST_STEP][PASSED] - openBrowser("https://www.jornaldeangola.ao/ao/noticias/index.php?tipo=1&idSec=20"): Browser is opened with url: 'https://www.jornaldeangola.ao/ao/noticias/index.php?tipo=1&idSec=20'
+
+2023-04-15 16:44:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-04-15 16:44:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-04-15 16:44:23 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.jornaldeangola.ao/ao/noticias/index.php?tipo=1&idSec=20'
+
+2023-04-15 16:44:23 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-04-15 16:44:23 - [MESSAGE][PASSED] - Current window maximized
+
+2023-04-15 16:44:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/JR/a_REGIES")): Object: 'Object Repository/JR/a_REGIES' is clicked on
+
+2023-04-15 16:44:24 - [MESSAGE][PASSED] - Object: 'Object Repository/JR/a_REGIES' is clicked on
+
+2023-04-15 16:44:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/JR/a_SOCIEDADE")): Object: 'Object Repository/JR/a_SOCIEDADE' is clicked on
+
+2023-04-15 16:44:25 - [MESSAGE][PASSED] - Object: 'Object Repository/JR/a_SOCIEDADE' is clicked on
+
+2023-04-15 16:44:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/JR/a_ECONOMIA")): Object: 'Object Repository/JR/a_ECONOMIA' is clicked on
+
+2023-04-15 16:44:25 - [MESSAGE][PASSED] - Object: 'Object Repository/JR/a_ECONOMIA' is clicked on
+
+2023-04-15 16:44:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/JR/a_CULTURA")): Object: 'Object Repository/JR/a_CULTURA' is clicked on
+
+2023-04-15 16:44:26 - [MESSAGE][PASSED] - Object: 'Object Repository/JR/a_CULTURA' is clicked on
+
+2023-04-15 16:44:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/JR/a_DESPORTO")): Object: 'Object Repository/JR/a_DESPORTO' is clicked on
+
+2023-04-15 16:44:27 - [MESSAGE][PASSED] - Object: 'Object Repository/JR/a_DESPORTO' is clicked on
+
+2023-04-15 16:44:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/JR/a_ENTREVISTA")): Object: 'Object Repository/JR/a_ENTREVISTA' is clicked on
+
+2023-04-15 16:44:27 - [MESSAGE][PASSED] - Object: 'Object Repository/JR/a_ENTREVISTA' is clicked on
+
+2023-04-15 16:44:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/JR/a_REPORTAGEM")): Object: 'Object Repository/JR/a_REPORTAGEM' is clicked on
+
+2023-04-15 16:44:28 - [MESSAGE][PASSED] - Object: 'Object Repository/JR/a_REPORTAGEM' is clicked on
+
+2023-04-15 16:44:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/JR/a_OPINIO")): Object: 'Object Repository/JR/a_OPINIO' is clicked on
+
+2023-04-15 16:44:29 - [MESSAGE][PASSED] - Object: 'Object Repository/JR/a_OPINIO' is clicked on
+
+2023-04-15 16:44:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/JR/a_MUNDO")): Object: 'Object Repository/JR/a_MUNDO' is clicked on
+
+2023-04-15 16:44:29 - [MESSAGE][PASSED] - Object: 'Object Repository/JR/a_MUNDO' is clicked on
+
+2023-04-15 16:44:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/JR/a_ASSINATURAS")): Object: 'Object Repository/JR/a_ASSINATURAS' is clicked on
+
+2023-04-15 16:44:30 - [MESSAGE][PASSED] - Object: 'Object Repository/JR/a_ASSINATURAS' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-04-15 16:44:14 - [TEST_SUITE][PASSED] - Jornal_Rodar: Test Cases/Jornal TC/JornalPage]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

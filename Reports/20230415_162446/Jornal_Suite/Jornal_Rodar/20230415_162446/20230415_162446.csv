@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Jornal_Rodar,Chrome 111.0.0.0,,,2023-04-15 16:24:48,2023-04-15 16:24:58,"9,981s",PASSED
+,,,,,,,
+Test Cases/Jornal TC/JornalPage,Chrome 111.0.0.0,,,2023-04-15 16:24:48,2023-04-15 16:24:58,"9,784s",PASSED
+"openBrowser(""https://www.jornaldeangola.ao/ao/noticias/index.php?tipo=1&idSec=20"")",Chrome 111.0.0.0,,,2023-04-15 16:24:49,2023-04-15 16:24:58,"9,534s",PASSED

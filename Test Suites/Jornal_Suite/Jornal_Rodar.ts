@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Enviar2</name>
+   <name>Jornal_Rodar</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>c2df0715-82dc-48cc-9959-490c165904b4</testSuiteGuid>
+   <testSuiteGuid>2569ed25-4648-47a8-8315-6329f18e4a1b</testSuiteGuid>
    <testCaseLink>
-      <guid>4e29e68d-2f7d-42bd-ab8e-979dfe104a18</guid>
+      <guid>745c5e4f-4b7b-4589-8600-77d937e24806</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Email2/Inicial pag</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>fbec6dff-1c9d-4d64-9ba9-35ddcb561cc5</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Email/pagina_inicial</testCaseId>
+      <testCaseId>Test Cases/Jornal TC/JornalPage</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
