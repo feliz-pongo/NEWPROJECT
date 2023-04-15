@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Enviar2,Chrome 111.0.0.0,,,2023-04-15 17:04:59,2023-04-15 17:05:12,"13,030s",PASSED
+,,,,,,,
+Test Cases/Email2/Inicial pag,Chrome 111.0.0.0,,,2023-04-15 17:04:59,2023-04-15 17:05:12,"12,847s",PASSED
+"openBrowser(""https://mail.google.com/mail/u/0/#inbox"")",Chrome 111.0.0.0,,,2023-04-15 17:04:59,2023-04-15 17:05:06,"6,576s",PASSED
+"sendKeys(findTestObject(""Object Repository/EnviarEmail2/input_Continuar para o Gmail_identifier""), ""felizpongo980@gmail.com"")",Chrome 111.0.0.0,,,2023-04-15 17:05:06,2023-04-15 17:05:06,"0,755s",PASSED
+"click(findTestObject(""Object Repository/EnviarEmail2/span_Criar conta""))",Chrome 111.0.0.0,,,2023-04-15 17:05:06,2023-04-15 17:05:07,"0,504s",PASSED
+"click(findTestObject(""Object Repository/EnviarEmail2/span_Para a minha utilizao pessoal""))",Chrome 111.0.0.0,,,2023-04-15 17:05:07,2023-04-15 17:05:10,"3,336s",PASSED
+"sendKeys(findTestObject(""Object Repository/EnviarEmail2/input_Introduza o seu nome_firstName""), ""Pedro"")",Chrome 111.0.0.0,,,2023-04-15 17:05:10,2023-04-15 17:05:11,"0,843s",PASSED
+"sendKeys(findTestObject(""Object Repository/EnviarEmail2/input_Introduza o seu nome_lastName""), ""Manuel"")",Chrome 111.0.0.0,,,2023-04-15 17:05:11,2023-04-15 17:05:12,"0,580s",PASSED
