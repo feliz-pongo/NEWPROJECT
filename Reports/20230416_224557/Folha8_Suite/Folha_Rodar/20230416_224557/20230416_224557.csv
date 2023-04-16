@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Folha_Rodar,Chrome 111.0.0.0,,,2023-04-16 22:46:05,2023-04-16 22:46:19,"14,576s",PASSED
+,,,,,,,
+Test Cases/Folha8 TC/Folha,Chrome 111.0.0.0,,,2023-04-16 22:46:05,2023-04-16 22:46:19,"13,999s",PASSED
+"openBrowser(""https://jornalf8.net/category/politica/"")",Chrome 111.0.0.0,,,2023-04-16 22:46:06,2023-04-16 22:46:19,"12,975s",PASSED
+maximizeWindow(),Chrome 111.0.0.0,,,2023-04-16 22:46:19,2023-04-16 22:46:19,"0,235s",PASSED

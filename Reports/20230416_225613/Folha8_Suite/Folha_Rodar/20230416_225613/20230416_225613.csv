@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Folha_Rodar,Chrome 111.0.0.0,,,2023-04-16 22:56:19,2023-04-16 22:56:59,"39,891s",PASSED
+,,,,,,,
+Test Cases/Folha8 TC/Folha,Chrome 111.0.0.0,,,2023-04-16 22:56:20,2023-04-16 22:56:59,"39,330s",PASSED
+"openBrowser(""https://jornalf8.net/category/politica/"")",Chrome 111.0.0.0,,,2023-04-16 22:56:20,2023-04-16 22:56:33,"12,961s",PASSED
+maximizeWindow(),Chrome 111.0.0.0,,,2023-04-16 22:56:33,2023-04-16 22:56:34,"0,207s",PASSED
+"click(findTestObject(""Object Repository/Folha8 OR/a_Sociedade""))",Chrome 111.0.0.0,,,2023-04-16 22:56:34,2023-04-16 22:56:38,"4,226s",PASSED
+"click(findTestObject(""Object Repository/Folha8 OR/a_Opinio""))",Chrome 111.0.0.0,,,2023-04-16 22:56:38,2023-04-16 22:56:42,"4,217s",PASSED
+"click(findTestObject(""Object Repository/Folha8 OR/a_Economia""))",Chrome 111.0.0.0,,,2023-04-16 22:56:42,2023-04-16 22:56:46,"4,408s",PASSED
+"click(findTestObject(""Object Repository/Folha8 OR/a_Cultura""))",Chrome 111.0.0.0,,,2023-04-16 22:56:46,2023-04-16 22:56:50,"4,000s",PASSED
+"click(findTestObject(""Object Repository/Folha8 OR/a_Lusofonia""))",Chrome 111.0.0.0,,,2023-04-16 22:56:50,2023-04-16 22:56:55,"4,120s",PASSED
+"click(findTestObject(""Object Repository/Folha8 OR/a_Internacional""))",Chrome 111.0.0.0,,,2023-04-16 22:56:55,2023-04-16 22:56:59,"4,467s",PASSED

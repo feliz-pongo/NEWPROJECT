@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Folha_Rodar" time="39.891" tests="1" failures="0" errors="0">
+   <testsuite name="Folha_Rodar" tests="1" failures="0" errors="0" time="39.891" skipped="0" timestamp="2023-04-16 22:56:19" hostname="feliz.pongo - NOT-TIS-CON22.TISTECH.LAN" id="Test Suites/Folha8_Suite/Folha_Rodar">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\feliz.pongo\\git\\NEWPROJECT\\Reports\\20230416_225613\\Folha8_Suite\\Folha_Rodar\\20230416_225613"/>
+         <property name="logFiles" value="C:\\Users\\feliz.pongo\\git\\NEWPROJECT\\Reports\\20230416_225613\\Folha8_Suite\\Folha_Rodar\\20230416_225613\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="feliz.pongo - NOT-TIS-CON22.TISTECH.LAN"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 111.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.4"/>
+         <property name="sessionId" value="6af2b6f0f2877ab4db03921a916c18d1"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Folha8 TC/Folha" time="39.33" classname="Test Cases/Folha8 TC/Folha" status="PASSED">
+         <system-out><![CDATA[2023-04-16 22:56:20 - [TEST_CASE][PASSED] - Test Cases/Folha8 TC/Folha: Test Cases/Folha8 TC/Folha
+
+2023-04-16 22:56:20 - [TEST_STEP][PASSED] - openBrowser("https://jornalf8.net/category/politica/"): Browser is opened with url: 'https://jornalf8.net/category/politica/'
+
+2023-04-16 22:56:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-04-16 22:56:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-04-16 22:56:33 - [MESSAGE][PASSED] - Browser is opened with url: 'https://jornalf8.net/category/politica/'
+
+2023-04-16 22:56:33 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-04-16 22:56:34 - [MESSAGE][PASSED] - Current window maximized
+
+2023-04-16 22:56:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Folha8 OR/a_Sociedade")): Object: 'Object Repository/Folha8 OR/a_Sociedade' is clicked on
+
+2023-04-16 22:56:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Folha8 OR/a_Sociedade' is clicked on
+
+2023-04-16 22:56:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Folha8 OR/a_Opinio")): Object: 'Object Repository/Folha8 OR/a_Opinio' is clicked on
+
+2023-04-16 22:56:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Folha8 OR/a_Opinio' is clicked on
+
+2023-04-16 22:56:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Folha8 OR/a_Economia")): Object: 'Object Repository/Folha8 OR/a_Economia' is clicked on
+
+2023-04-16 22:56:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Folha8 OR/a_Economia' is clicked on
+
+2023-04-16 22:56:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Folha8 OR/a_Cultura")): Object: 'Object Repository/Folha8 OR/a_Cultura' is clicked on
+
+2023-04-16 22:56:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Folha8 OR/a_Cultura' is clicked on
+
+2023-04-16 22:56:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Folha8 OR/a_Lusofonia")): Object: 'Object Repository/Folha8 OR/a_Lusofonia' is clicked on
+
+2023-04-16 22:56:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Folha8 OR/a_Lusofonia' is clicked on
+
+2023-04-16 22:56:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Folha8 OR/a_Internacional")): Object: 'Object Repository/Folha8 OR/a_Internacional' is clicked on
+
+2023-04-16 22:56:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Folha8 OR/a_Internacional' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-04-16 22:56:19 - [TEST_SUITE][PASSED] - Folha_Rodar: Test Cases/Folha8 TC/Folha]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
