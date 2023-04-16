@@ -59,6 +59,16 @@
       "proposedLocatorMethod": "CSS",
       "recoveryMethod": "CSS",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/ID_utilizador_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Deep OR/a_Porqu o DeepL",
+      "brokenLocator": "//a[@id\u003d\u0027dl_menu_deepl_why_deepl\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Funcionalidades\u0027])[1]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Deep OR/a_Porqu o DeepL_neighbor.png"
     }
   ]
 }

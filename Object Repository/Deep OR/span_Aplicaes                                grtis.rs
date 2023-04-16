@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aplicaes                                grtis</name>
+   <tag></tag>
+   <elementGuidId>94f96967-4f00-4f0e-9a04-397272696289</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.dl_headerMenu__itemWithBadge</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='dl_menu_apps']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9d0d1ff8-23c8-45c0-8ae5-17ef6d920cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dl_headerMenu__itemWithBadge</value>
+      <webElementGuid>5c1dd90c-7082-4bdc-b635-872d5d30b5a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Aplicações                                grátis
+                            </value>
+      <webElementGuid>0125787f-a0d7-4f60-8a18-42a0e8fb6cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dl_menu_apps&quot;)/span[@class=&quot;dl_headerMenu__itemWithBadge&quot;]</value>
+      <webElementGuid>1cbf9b66-9c33-4ad8-b6aa-debf5b240c0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='dl_menu_apps']/span</value>
+      <webElementGuid>5ef81e59-def9-455e-98df-2181936e9417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Planos e preços'])[1]/following::span[1]</value>
+      <webElementGuid>6da7c43a-1567-461e-be82-61788bdbfb92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/following::span[1]</value>
+      <webElementGuid>e5315d69-7ccc-46c7-9845-4771e7924dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contactar'])[1]/preceding::span[2]</value>
+      <webElementGuid>9131e0d3-3dae-4bb3-a93e-166e8e368102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aplicações']/parent::*</value>
+      <webElementGuid>4f22d40b-2f1a-415f-896e-dc575a019943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]/span</value>
+      <webElementGuid>b813441f-b59d-4823-84b3-5cb12e04412c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                Aplicações                                grátis
+                            ' or . = '
+                                Aplicações                                grátis
+                            ')]</value>
+      <webElementGuid>3125923c-85f4-4a82-a05e-e29891282d25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

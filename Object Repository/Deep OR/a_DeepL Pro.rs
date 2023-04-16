@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DeepL Pro</name>
+   <tag></tag>
+   <elementGuidId>488bffb3-9a53-4adc-a3e2-41350d206fc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dl_menu_deepl_pro</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='dl_menu_deepl_pro']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b0db84f1-0951-40d5-9dd9-bbb726f35340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dl_header_menu_v2__links__item dl_navigate_away</value>
+      <webElementGuid>be15f83c-ab84-47da-8fba-3ede90b94e91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dl_menu_deepl_pro</value>
+      <webElementGuid>617e66c8-9fbb-42d4-b47c-208b434dd74f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pro?cta=header-pro</value>
+      <webElementGuid>f41c8f4d-e0c7-4228-ab35-9808212aea47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            DeepL Pro                        </value>
+      <webElementGuid>da19e0b2-ec79-4266-a323-fde437cc87ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dl_menu_deepl_pro&quot;)</value>
+      <webElementGuid>ad8f876a-bc4f-4983-b84e-c3919fc59780</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='dl_menu_deepl_pro']</value>
+      <webElementGuid>0bffa7f7-c496-415e-b7fa-20e0593b864f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dl_navbar_desktop']/a[3]</value>
+      <webElementGuid>8ad4f459-dcf6-4717-a240-104475ae1546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'DeepL Pro')])[2]</value>
+      <webElementGuid>e2c228f7-9d65-45fe-b1ee-6683503ff4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DeepL Pro'])[1]/following::a[1]</value>
+      <webElementGuid>65c4cf8d-02c1-4073-bf23-2fc3d76df023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tradutor'])[1]/following::a[2]</value>
+      <webElementGuid>ee4aec18-f4a5-4b8d-ba93-445ccba49ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Funcionalidades'])[1]/preceding::a[1]</value>
+      <webElementGuid>87fe2ed8-490d-4562-93c0-d0a33c4982bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Business'])[1]/preceding::a[2]</value>
+      <webElementGuid>b189f24d-8717-421e-8a15-61bc51f9111e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pro?cta=header-pro')]</value>
+      <webElementGuid>654c7e5a-e7a6-456d-a3c1-c3507f43586d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>201d7cfc-c376-441b-90fa-7b15741ba093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'dl_menu_deepl_pro' and @href = '/pro?cta=header-pro' and (text() = '
+                            DeepL Pro                        ' or . = '
+                            DeepL Pro                        ')]</value>
+      <webElementGuid>5032527a-ec47-4147-a40c-d1e8a38ccc04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

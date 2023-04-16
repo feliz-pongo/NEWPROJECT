@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Porqu o DeepL</name>
+   <tag></tag>
+   <elementGuidId>4dc116ac-0459-494f-b83f-a302bdc2e40f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dl_menu_deepl_why_deepl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='dl_menu_deepl_why_deepl']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>13a84004-6955-401f-aaae-b1308c2e9bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dl_header_menu_v2__links__item dl_navigate_away</value>
+      <webElementGuid>5e478c95-f7ce-4547-a0fe-8b19cb17e673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dl_menu_deepl_why_deepl</value>
+      <webElementGuid>f66b1766-4d22-461c-a946-f9c59b07ebb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/why-deepl-pro</value>
+      <webElementGuid>0829877b-b1e2-4805-bbe7-332623921738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Porquê o DeepL?                            </value>
+      <webElementGuid>9a21ea90-01c1-49b1-b847-d64590fb7014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dl_menu_deepl_why_deepl&quot;)</value>
+      <webElementGuid>2f319d41-f9b9-4785-b0ea-95d806f7cdda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='dl_menu_deepl_why_deepl']</value>
+      <webElementGuid>65c60551-2c78-4412-94f8-0b8ac2d09293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dl_menu_whyDeepLFlyout']/a</value>
+      <webElementGuid>29afddfe-28ff-4458-a975-b1bb13ca5df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Porquê o DeepL?')]</value>
+      <webElementGuid>5dc8916b-a3f6-457b-9cd9-8852e54bbee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Business'])[1]/following::a[1]</value>
+      <webElementGuid>582afba2-ded9-4447-b20d-a83518c606aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Funcionalidades'])[1]/following::a[2]</value>
+      <webElementGuid>d39fd091-2da3-4bcb-8ae2-b117f80ea1e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/preceding::a[1]</value>
+      <webElementGuid>324081a5-13af-483a-adbc-3cf007a104aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Planos e preços'])[1]/preceding::a[2]</value>
+      <webElementGuid>b1489186-e8c3-46fe-84eb-080a51ccdead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Porquê o DeepL?']/parent::*</value>
+      <webElementGuid>c1e15878-5641-4aa2-af0e-80a98667a887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/why-deepl-pro')]</value>
+      <webElementGuid>56bce1c1-76aa-4780-ac54-b25cc9b21f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>3683c91b-cbca-4a1f-bea5-0e71d722d8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'dl_menu_deepl_why_deepl' and @href = '/why-deepl-pro' and (text() = '
+                                Porquê o DeepL?                            ' or . = '
+                                Porquê o DeepL?                            ')]</value>
+      <webElementGuid>6d6a4638-afad-46fc-b37c-467413354414</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
