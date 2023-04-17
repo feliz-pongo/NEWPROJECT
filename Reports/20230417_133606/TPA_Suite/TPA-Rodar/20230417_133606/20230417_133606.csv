@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TPA-Rodar,Chrome 111.0.0.0,,,2023-04-17 13:36:12,2023-04-17 13:37:39,"1m - 26,827s",PASSED
+,,,,,,,
+Test Cases/TPA TC/TPA_Noticias,Chrome 111.0.0.0,,,2023-04-17 13:36:13,2023-04-17 13:37:39,"1m - 26,312s",PASSED
+"openBrowser(""https://www.tpa.ao/ao/noticias/index.php?tipo=1&idSec=96"")",Chrome 111.0.0.0,,,2023-04-17 13:36:13,2023-04-17 13:36:28,"14,932s",PASSED
+maximizeWindow(),Chrome 111.0.0.0,,,2023-04-17 13:36:28,2023-04-17 13:36:28,"0,209s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_A NOITE  DELA""))",Chrome 111.0.0.0,,,2023-04-17 13:36:28,2023-04-17 13:36:33,"4,739s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Notcias""))",Chrome 111.0.0.0,,,2023-04-17 13:36:33,2023-04-17 13:36:35,"1,421s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Cincia""))",Chrome 111.0.0.0,,,2023-04-17 13:36:35,2023-04-17 13:36:39,"4,884s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Sociedade""))",Chrome 111.0.0.0,,,2023-04-17 13:36:39,2023-04-17 13:36:42,"3,045s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_NA LENTE""))",Chrome 111.0.0.0,,,2023-04-17 13:36:42,2023-04-17 13:36:45,"2,012s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_COVID-19""))",Chrome 111.0.0.0,,,2023-04-17 13:36:45,2023-04-17 13:36:48,"3,061s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Cultura""))",Chrome 111.0.0.0,,,2023-04-17 13:36:48,2023-04-17 13:36:49,"1,140s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Curiosidades""))",Chrome 111.0.0.0,,,2023-04-17 13:36:49,2023-04-17 13:36:50,"1,074s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Curso Culinria""))",Chrome 111.0.0.0,,,2023-04-17 13:36:50,2023-04-17 13:36:51,"1,225s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Desporto""))",Chrome 111.0.0.0,,,2023-04-17 13:36:51,2023-04-17 13:36:54,"3,334s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Poltica""))",Chrome 111.0.0.0,,,2023-04-17 13:36:54,2023-04-17 13:36:57,"2,566s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_OUTROS""))",Chrome 111.0.0.0,,,2023-04-17 13:36:57,2023-04-17 13:37:02,"5,153s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Economia""))",Chrome 111.0.0.0,,,2023-04-17 13:37:02,2023-04-17 13:37:03,"1,190s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Educao""))",Chrome 111.0.0.0,,,2023-04-17 13:37:03,2023-04-17 13:37:05,"2,229s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Moda""))",Chrome 111.0.0.0,,,2023-04-17 13:37:05,2023-04-17 13:37:07,"1,301s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Ensino""))",Chrome 111.0.0.0,,,2023-04-17 13:37:07,2023-04-17 13:37:12,"5,356s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Justia""))",Chrome 111.0.0.0,,,2023-04-17 13:37:12,2023-04-17 13:37:16,"3,379s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Entrevistas""))",Chrome 111.0.0.0,,,2023-04-17 13:37:16,2023-04-17 13:37:17,"1,160s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Tecnologia""))",Chrome 111.0.0.0,,,2023-04-17 13:37:17,2023-04-17 13:37:18,"1,403s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_GRANDE ENTREVISTA""))",Chrome 111.0.0.0,,,2023-04-17 13:37:18,2023-04-17 13:37:20,"1,430s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Internacional""))",Chrome 111.0.0.0,,,2023-04-17 13:37:20,2023-04-17 13:37:23,"3,164s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_JANELA ABERTA""))",Chrome 111.0.0.0,,,2023-04-17 13:37:23,2023-04-17 13:37:25,"2,695s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Sade""))",Chrome 111.0.0.0,,,2023-04-17 13:37:25,2023-04-17 13:37:31,"5,935s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_JORNAL DA TARDE""))",Chrome 111.0.0.0,,,2023-04-17 13:37:31,2023-04-17 13:37:34,"2,328s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_Desenvolvimento Humano""))",Chrome 111.0.0.0,,,2023-04-17 13:37:34,2023-04-17 13:37:36,"2,586s",PASSED
+"click(findTestObject(""Object Repository/TPA OR/a_CULINRIA""))",Chrome 111.0.0.0,,,2023-04-17 13:37:36,2023-04-17 13:37:39,"2,619s",PASSED
