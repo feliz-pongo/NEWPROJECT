@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_JANELA ABERTA</name>
+   <tag></tag>
+   <elementGuidId>fcda0b00-50b2-42f3-b3c1-3997f61e1de6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='top']/body/section[2]/div/div/a[23]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09c5a8dc-2964-4d6b-bc5a-548cf4dd90f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-2 p-2 pull-left</value>
+      <webElementGuid>13a2d301-29d5-4941-9d23-1b172c526efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ao/noticias/index.php?tipo=1&amp;idSec=112</value>
+      <webElementGuid>aab35de6-4ca1-4361-b41d-e914ab7b0317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JANELA ABERTA</value>
+      <webElementGuid>61ac49fe-f4fc-4a67-8cd5-4c371436fd68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/body[@class=&quot;noticias&quot;]/section[@class=&quot;box-noticias lista-noticias bg-light&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;seccoes_&quot;]/a[@class=&quot;m-2 p-2 pull-left&quot;]</value>
+      <webElementGuid>f0cd049e-926d-4b70-a3a6-b6fd8eb97741</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='top']/body/section[2]/div/div/a[23]</value>
+      <webElementGuid>17ef6cba-84fb-49d0-be5a-486816c20507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'JANELA ABERTA')]</value>
+      <webElementGuid>189ca60c-9b4f-4fb1-b5f9-320d1a93a124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internacional'])[1]/following::a[1]</value>
+      <webElementGuid>e07352dd-d51d-44e0-ba8b-2e17ab37bf04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GRANDE ENTREVISTA'])[1]/following::a[2]</value>
+      <webElementGuid>0993f1b3-f6e5-41e5-88fd-48643a8a2c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saúde'])[1]/preceding::a[1]</value>
+      <webElementGuid>8df2c330-ac4a-45a5-8002-eac34060e24d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JORNAL DA TARDE'])[1]/preceding::a[2]</value>
+      <webElementGuid>cc75152e-9e24-4561-999f-1ea2518b325a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JANELA ABERTA']/parent::*</value>
+      <webElementGuid>cac455e4-ef03-49bb-910b-a59b9c4fc0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ao/noticias/index.php?tipo=1&amp;idSec=112')]</value>
+      <webElementGuid>931cdc3d-8f43-4608-92b9-42fa2a1336b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[23]</value>
+      <webElementGuid>b802fd74-0299-41d8-bc92-0767dfb839c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ao/noticias/index.php?tipo=1&amp;idSec=112' and (text() = 'JANELA ABERTA' or . = 'JANELA ABERTA')]</value>
+      <webElementGuid>3d890c20-ace5-4ca6-8187-b6d5278d2797</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

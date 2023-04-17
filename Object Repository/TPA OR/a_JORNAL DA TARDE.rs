@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_JORNAL DA TARDE</name>
+   <tag></tag>
+   <elementGuidId>437479b8-f90a-42c0-acdc-12aa4df779da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='top']/body/section[2]/div/div/a[25]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e111b84a-fba6-42db-9921-a3fa424ca78f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-2 p-2 pull-left</value>
+      <webElementGuid>a37ae109-7295-407d-b357-2d4e1e79b284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ao/noticias/index.php?tipo=1&amp;idSec=114</value>
+      <webElementGuid>a44324a0-e958-4d9a-8769-08559e274eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JORNAL DA TARDE</value>
+      <webElementGuid>4fc869bf-ecf8-4a48-911c-b88b32a162dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/body[@class=&quot;noticias&quot;]/section[@class=&quot;box-noticias lista-noticias bg-light&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;seccoes_&quot;]/a[@class=&quot;m-2 p-2 pull-left&quot;]</value>
+      <webElementGuid>cd1a919b-afbd-4542-845c-9a4e4e233879</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='top']/body/section[2]/div/div/a[25]</value>
+      <webElementGuid>22bb0238-71ec-43fe-b62c-2883083d76a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'JORNAL DA TARDE')]</value>
+      <webElementGuid>ca35f051-82a7-4096-905d-9062c6557a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saúde'])[1]/following::a[1]</value>
+      <webElementGuid>a66cd8e3-cc58-434e-8ef1-3cce4307e5af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JANELA ABERTA'])[1]/following::a[2]</value>
+      <webElementGuid>f9216f82-491f-4a34-9a03-a0785dab6d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desenvolvimento Humano'])[1]/preceding::a[1]</value>
+      <webElementGuid>f6fa1046-84f1-4a78-9e4c-474069c94d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CULINÁRIA'])[1]/preceding::a[2]</value>
+      <webElementGuid>bb97774b-e1ac-4bda-bae4-35a5b15d8775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JORNAL DA TARDE']/parent::*</value>
+      <webElementGuid>1581e8bb-d639-4df2-a154-ced310ffb8e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ao/noticias/index.php?tipo=1&amp;idSec=114')]</value>
+      <webElementGuid>9b02d9fa-6b1c-49fb-87a4-2936b0541de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[25]</value>
+      <webElementGuid>8765926d-02a2-4e70-a1c3-8ca383d6ccb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ao/noticias/index.php?tipo=1&amp;idSec=114' and (text() = 'JORNAL DA TARDE' or . = 'JORNAL DA TARDE')]</value>
+      <webElementGuid>c649882c-44e7-49ac-b0cb-b7dfd9e2e253</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
