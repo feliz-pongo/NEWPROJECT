@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gerir reservas</name>
+   <tag></tag>
+   <elementGuidId>eec1bc1d-f0e2-419e-abcc-d65c71d9a63b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pnlIBE']/ul/li[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>afbea791-4193-4de4-a6b3-3e698a7aa315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>3d1f095a-9eda-420f-93b9-1c69d8bf337d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gerir reservas</value>
+      <webElementGuid>02c205bc-bbee-48b1-b92b-1f586d92c9bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pnlIBE&quot;)/ul[@class=&quot;ibe-nav&quot;]/li[2]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>189fc3f9-381c-4217-bdc9-4196e2ef18f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pnlIBE']/ul/li[2]/span[2]</value>
+      <webElementGuid>e394c972-46db-4a94-afb9-246bd69d70fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reservas'])[1]/following::span[2]</value>
+      <webElementGuid>b15d4b51-c894-4a1e-a5aa-e7280af9454b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reservar já'])[4]/following::span[5]</value>
+      <webElementGuid>49c9a0bf-dc60-49d9-b919-b3653ebda850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check-in'])[2]/preceding::span[2]</value>
+      <webElementGuid>f034be16-df96-4a3f-8f44-cb377183ea18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado dos voos'])[1]/preceding::span[4]</value>
+      <webElementGuid>ed6970ca-4ff8-4ae6-8c70-86a51ca16a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span[2]</value>
+      <webElementGuid>ed2d68f8-48d0-4ffd-a74c-6cf7e42965f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Gerir reservas' or . = 'Gerir reservas')]</value>
+      <webElementGuid>79bebbd1-e5b5-4cb2-9be1-fa2f84cbdaf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

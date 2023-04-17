@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Localizador de bagagem</name>
+   <tag></tag>
+   <elementGuidId>72081d26-64b2-4330-b6a4-23b077cf8a88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pnlIBE']/ul/li[5]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f23f45c8-286e-4e5f-9fb5-bfcf61a666d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a6f84777-8c4a-4654-ab9b-c057f583e0f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Localizador de bagagem</value>
+      <webElementGuid>da5d0c66-1a83-4f33-b1eb-e248424af782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pnlIBE&quot;)/ul[@class=&quot;ibe-nav&quot;]/li[5]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>a934758f-9f2f-435f-acb1-2f697fcd7011</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pnlIBE']/ul/li[5]/span[2]</value>
+      <webElementGuid>26debc73-dce0-467e-b4f5-e89c5d7bf72d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado dos voos'])[1]/following::span[2]</value>
+      <webElementGuid>bc53dcf7-d180-41af-a97b-3cf3a45a4944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check-in'])[2]/following::span[4]</value>
+      <webElementGuid>7861bf1c-ea6a-42b2-8af4-094d9284c181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reservas'])[2]/preceding::span[2]</value>
+      <webElementGuid>6b2cabac-501d-4bc8-8266-e27bb22219fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voos'])[2]/preceding::span[3]</value>
+      <webElementGuid>ef541f53-5e7e-4220-9b29-1b5269096f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Localizador de bagagem']/parent::*</value>
+      <webElementGuid>db34a941-6636-4c81-b757-390fbb4cd2d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/span[2]</value>
+      <webElementGuid>a6aa58dc-d892-4130-801a-75229ed4b015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Localizador de bagagem' or . = 'Localizador de bagagem')]</value>
+      <webElementGuid>b1e26914-eb82-4058-922a-eba4b9d9d8b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
