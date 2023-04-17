@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Curso Culinria</name>
+   <tag></tag>
+   <elementGuidId>da52f1b7-dd14-4044-9a39-486713d357a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='top']/body/section[2]/div/div/a[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a177d74c-43d4-4592-a716-f3816a688dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-2 p-2 pull-left</value>
+      <webElementGuid>05215c18-163e-4e9e-a67a-cc4512d65ff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ao/noticias/curso-culinaria/</value>
+      <webElementGuid>2ae46237-7d28-4983-8c50-c4d47189b432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Curso Culinária</value>
+      <webElementGuid>12ce514f-5804-4f79-bdb7-1432ba6a083f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/body[@class=&quot;noticias&quot;]/section[@class=&quot;box-noticias lista-noticias bg-light&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;seccoes_&quot;]/a[@class=&quot;m-2 p-2 pull-left&quot;]</value>
+      <webElementGuid>000a37b5-2ff5-4946-88dc-32eb4936af2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='top']/body/section[2]/div/div/a[10]</value>
+      <webElementGuid>ccefe5fe-a0d9-4417-a419-b0585dc00f89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Curso Culinária')]</value>
+      <webElementGuid>b8a91994-b676-4580-80e4-cd2218eef78d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curiosidades'])[1]/following::a[1]</value>
+      <webElementGuid>2dd1c259-fa93-42d6-a1cb-caabba61ab20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cultura'])[1]/following::a[2]</value>
+      <webElementGuid>18233042-b522-4200-8cfa-cb410ce0e35a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desporto'])[1]/preceding::a[1]</value>
+      <webElementGuid>9c37aee1-9433-40da-8219-2a26f77f8054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Política'])[1]/preceding::a[2]</value>
+      <webElementGuid>4a4fa2c2-7e32-44fa-9efd-e048a8bf837d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Curso Culinária']/parent::*</value>
+      <webElementGuid>c56b47ba-ff8e-4d70-be63-b7091dece0ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ao/noticias/curso-culinaria/')]</value>
+      <webElementGuid>18113ea7-530d-4389-9793-44c106b01b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[10]</value>
+      <webElementGuid>04166573-c401-4992-af23-42a59b8c02d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ao/noticias/curso-culinaria/' and (text() = 'Curso Culinária' or . = 'Curso Culinária')]</value>
+      <webElementGuid>c39c4b52-b128-417f-87c8-ba40757c5e44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_NA LENTE</name>
+   <tag></tag>
+   <elementGuidId>5306ad14-ef27-4e99-bb2c-5e7ef39f5bba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='top']/body/section[2]/div/div/a[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4c11ea27-7936-4876-b6ff-e28eb5efc4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-2 p-2 pull-left</value>
+      <webElementGuid>b28191cd-86dc-4f1b-995e-68664b8f71c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ao/noticias/index.php?tipo=1&amp;idSec=118</value>
+      <webElementGuid>129770ff-d98f-4a23-8c90-f5d73edef123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NA LENTE</value>
+      <webElementGuid>cfb4d6b7-76b8-4d96-ae43-df4049147ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/body[@class=&quot;noticias&quot;]/section[@class=&quot;box-noticias lista-noticias bg-light&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;seccoes_&quot;]/a[@class=&quot;m-2 p-2 pull-left&quot;]</value>
+      <webElementGuid>c80c860d-5846-4602-b475-9447b913d83a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='top']/body/section[2]/div/div/a[6]</value>
+      <webElementGuid>5907ee5d-335d-4129-9945-26e844e60afe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'NA LENTE')]</value>
+      <webElementGuid>31b78954-671d-4af8-a04d-e07ad0ebbed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sociedade'])[1]/following::a[1]</value>
+      <webElementGuid>76511c60-9247-4aef-ab28-b4a0f9586390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ciência'])[1]/following::a[2]</value>
+      <webElementGuid>433a0591-8a6a-4a18-9283-3746c2820344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COVID-19'])[1]/preceding::a[1]</value>
+      <webElementGuid>713d8aaa-6f6c-4150-b334-088f0ba4cc87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cultura'])[1]/preceding::a[2]</value>
+      <webElementGuid>0fa4627a-577c-4045-bdcc-b0714ca75d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NA LENTE']/parent::*</value>
+      <webElementGuid>bc6d8730-c88d-4061-83b7-bdcd82faf980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ao/noticias/index.php?tipo=1&amp;idSec=118')]</value>
+      <webElementGuid>57f08768-ac37-49de-9b81-2fd31d05067f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]</value>
+      <webElementGuid>2a0989dd-28b2-4795-aeaa-520d6e798f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ao/noticias/index.php?tipo=1&amp;idSec=118' and (text() = 'NA LENTE' or . = 'NA LENTE')]</value>
+      <webElementGuid>9a46e327-5899-46f3-9b40-f563208fa6bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
