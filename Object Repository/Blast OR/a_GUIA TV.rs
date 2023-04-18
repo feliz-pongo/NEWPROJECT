@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_GUIA TV</name>
+   <tag></tag>
+   <elementGuidId>c2036ad7-9a96-4468-87a3-e19e4a3f261d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > a.page01</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cabecera_']/div[4]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>180c35eb-9014-41f1-a39f-8d62cf359852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page01</value>
+      <webElementGuid>310e99a3-aecb-474f-b285-744bf0f3c415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/programacion/</value>
+      <webElementGuid>6ae38d79-a61a-41f4-908d-7186cfc05d71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GUIA TV</value>
+      <webElementGuid>dcdabc74-1b37-4db8-a6cb-c7f9464bdf3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cabecera_&quot;)/div[@class=&quot;menu&quot;]/ul[1]/li[3]/a[@class=&quot;page01&quot;]</value>
+      <webElementGuid>d065f611-9c16-411f-9c1e-30a8b0d50a1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cabecera_']/div[4]/ul/li[3]/a</value>
+      <webElementGuid>60483e69-a070-4797-bef3-5872f2b522b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'GUIA TV')]</value>
+      <webElementGuid>4266b1c3-649d-4ae0-aa02-41baf3253a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME'])[1]/following::a[1]</value>
+      <webElementGuid>b84cc96d-09e1-498f-b313-668d435bf383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YOUTUBE'])[1]/following::a[3]</value>
+      <webElementGuid>8635efb9-cf7e-46d6-9eb9-bdaec53bbe82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESTAQUES'])[1]/preceding::a[1]</value>
+      <webElementGuid>c09c9d67-2ca8-43c5-bb6e-d5405ae28578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PASSATEMPOS'])[1]/preceding::a[2]</value>
+      <webElementGuid>41112ccd-807c-4e3f-a426-f5278b14aa41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GUIA TV']/parent::*</value>
+      <webElementGuid>4a8a05bc-bec9-4fad-bb25-d3b7937c68b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/programacion/')]</value>
+      <webElementGuid>b8215cd5-0965-4e9e-848e-e6770bfba45b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[3]/a</value>
+      <webElementGuid>f49d3254-79bc-4778-a4ec-d75108f50aaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/programacion/' and (text() = 'GUIA TV' or . = 'GUIA TV')]</value>
+      <webElementGuid>21527fe0-cc56-412f-8620-751c81b1a373</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

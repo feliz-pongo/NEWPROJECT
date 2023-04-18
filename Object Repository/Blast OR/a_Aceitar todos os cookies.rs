@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Aceitar todos os cookies</name>
+   <tag></tag>
+   <elementGuidId>a0a2c233-5775-48f5-b1c7-cc770f5fd4c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.js-lang</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='acceptAllAndClose()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2eaf0864-51c2-4202-a9d2-6726d187a3bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript: void(0)</value>
+      <webElementGuid>3bacb971-0689-4890-90ed-b70f33b530a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn js-lang</value>
+      <webElementGuid>5b3ccedb-95b8-4083-9b47-dfb86242e743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>acceptAllAndClose()</value>
+      <webElementGuid>9659cd50-8d57-470f-9a6f-5bdf3a0416d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-lang</name>
+      <type>Main</type>
+      <value>pt</value>
+      <webElementGuid>2aa2bd3f-33f2-4c6d-a1da-81e9356d980a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aceitar todos os cookies</value>
+      <webElementGuid>8a37bc7e-6b00-46f2-97b9-5c32fdb05b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c-right&quot;)/a[@class=&quot;btn js-lang&quot;]</value>
+      <webElementGuid>7685f76b-4522-4600-872a-a042433edfcc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='acceptAllAndClose()']</value>
+      <webElementGuid>140d357f-4c82-4ef5-8cc3-96e048e4586c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='c-right']/a</value>
+      <webElementGuid>5d8c4494-12d2-4a1e-957b-6fadb281c2eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Aceitar todos os cookies')]</value>
+      <webElementGuid>45837142-1e24-4508-9fd1-1bab981321d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accept all cookies'])[1]/preceding::a[1]</value>
+      <webElementGuid>408a68e8-20bb-432d-90f9-b51c5ac05de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configurar cookies'])[1]/preceding::a[2]</value>
+      <webElementGuid>d37e8b70-2228-4499-9a78-77d37b1edffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aceitar todos os cookies']/parent::*</value>
+      <webElementGuid>835f1736-9be8-4781-96e0-b12bdf9ea6ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript: void(0)')]</value>
+      <webElementGuid>e1e98aa1-aa47-42a5-9b3f-e5dd7aaa4823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>575b9b38-92bc-4c15-91a3-939a22387fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript: void(0)' and (text() = 'Aceitar todos os cookies' or . = 'Aceitar todos os cookies')]</value>
+      <webElementGuid>15ea21c6-f0cb-4843-8f41-5c05a3bd78b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
