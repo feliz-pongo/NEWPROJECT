@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>P_Tudo</name>
+   <tag></tag>
+   <elementGuidId>8e2d5549-dd18-4e67-9f2f-262a50d8c8e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.hdtb-mitem.hdtb-msel > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hdtb-msb']/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fe80e32d-f6ab-4976-864d-7c92fe85655b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tudo</value>
+      <webElementGuid>491b7e91-2d7c-43b9-a605-33aaede771f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hdtb-msb&quot;)/div[1]/div[@class=&quot;MUFPAc&quot;]/div[@class=&quot;hdtb-mitem hdtb-msel&quot;]/span[1]</value>
+      <webElementGuid>1430c002-17aa-4555-b737-0541f00a2280</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hdtb-msb']/div/div/div/span</value>
+      <webElementGuid>acf3d12a-3181-4698-838e-ff586f7a164b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modos de pesquisa'])[1]/following::span[1]</value>
+      <webElementGuid>7fec8b28-376f-4426-bb6d-999b3d8c6a8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/following::span[2]</value>
+      <webElementGuid>e4cdffd2-300f-4d45-aba4-fddcfae142d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Imagens'])[1]/preceding::span[2]</value>
+      <webElementGuid>1c2fa873-81f4-42d0-9141-0145e9577646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vídeos'])[1]/preceding::span[3]</value>
+      <webElementGuid>115ead18-f663-4e14-81ef-9c6bf67fc9a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tudo']/parent::*</value>
+      <webElementGuid>091f7538-27db-48fb-a890-18a1fe3aa4f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]/div/div/div/div/div/div/span</value>
+      <webElementGuid>9d8d30cb-5ff8-4bdf-8a2f-4e2ac1d2aaa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tudo' or . = 'Tudo')]</value>
+      <webElementGuid>101aa360-4727-4b2a-b068-1c530d7283cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
