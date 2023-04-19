@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_O que aconteceu com National Geographic_L3Ezfd</name>
+   <tag></tag>
+   <elementGuidId>9a346f79-7239-4b46-8cb7-e7fbaf91e0a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='6XlAZNnHLM6ChbIPku-MsAo__5']/div/div/div[2]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#6XlAZNnHLM6ChbIPku-MsAo__5 > div.wQiwMc.related-question-pair > div.HYvwY.ilulF.roMIYb.oST1qe.g7pt6d.h373nd > div:nth-of-type(2) > div.dnXCYb > div.L3Ezfd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7d60da5f-43f3-4847-ad93-7b6cf6e37f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>pcRaIe</value>
+      <webElementGuid>0e42cc75-b4d2-474c-bc56-03c3389c8fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>L3Ezfd</value>
+      <webElementGuid>df50d420-2326-42e1-b4ea-0c600cbd6b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ved</name>
+      <type>Main</type>
+      <value>2ahUKEwiZ4Pqhjbf-AhVOQUEAHZI3A6YQuk56BAgBEAI</value>
+      <webElementGuid>75283901-f0cf-4988-b9fe-e01e2a2e1cd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6XlAZNnHLM6ChbIPku-MsAo__5&quot;)/div[@class=&quot;wQiwMc related-question-pair&quot;]/div[@class=&quot;HYvwY ilulF roMIYb oST1qe g7pt6d h373nd&quot;]/div[2]/div[@class=&quot;dnXCYb&quot;]/div[@class=&quot;L3Ezfd&quot;]</value>
+      <webElementGuid>a76a03e8-7cfa-4238-9cd4-fa65333e0c69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='6XlAZNnHLM6ChbIPku-MsAo__5']/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>b3869004-eb93-4c0c-84ae-f6094ffaf619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>90f749ca-85a4-485a-9569-67738bd30f93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

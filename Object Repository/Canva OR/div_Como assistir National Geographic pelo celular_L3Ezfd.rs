@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Como assistir National Geographic pelo celular_L3Ezfd</name>
+   <tag></tag>
+   <elementGuidId>740f09cf-d1f4-4a21-914a-5fcaf541f575</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zHlAZLvgCMmdgQa6852QCg__19']/div/div/div[2]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#zHlAZLvgCMmdgQa6852QCg__19 > div.wQiwMc.related-question-pair > div.HYvwY.ilulF.roMIYb.oST1qe.g7pt6d.h373nd > div:nth-of-type(2) > div.dnXCYb > div.L3Ezfd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9895993d-05ff-4d9a-b20a-d345a4f53183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>pcRaIe</value>
+      <webElementGuid>f7aa4d55-503d-47d2-a944-7636c46a9855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>L3Ezfd</value>
+      <webElementGuid>e8eeeb61-3b08-4695-92d5-b439c75ce6f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ved</name>
+      <type>Main</type>
+      <value>2ahUKEwi79uyTjbf-AhXJTsAKHbp5B6IQuk56BAgUEAI</value>
+      <webElementGuid>f5225fc7-15af-45ac-b08f-f6b0294e13f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zHlAZLvgCMmdgQa6852QCg__19&quot;)/div[@class=&quot;wQiwMc related-question-pair&quot;]/div[@class=&quot;HYvwY ilulF roMIYb oST1qe g7pt6d h373nd&quot;]/div[2]/div[@class=&quot;dnXCYb&quot;]/div[@class=&quot;L3Ezfd&quot;]</value>
+      <webElementGuid>6f1d23f1-23cc-4054-a1e2-ceed49c4273b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zHlAZLvgCMmdgQa6852QCg__19']/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>fcc21df7-a1ff-4320-ab4c-b8fe92a83429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>b4bb6996-d429-4266-b378-69168c18f26f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

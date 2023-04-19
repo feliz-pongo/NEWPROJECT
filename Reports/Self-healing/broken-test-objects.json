@@ -79,6 +79,66 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Holly OR/a_Vdeos_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Canva OR/div_Onde assistir o canal National Geographic_L3Ezfd",
+      "brokenLocator": "//div[@id\u003d\u0027zHlAZLvgCMmdgQa6852QCg__16\u0027]/div/div/div[2]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/div/div/div[2]/div/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Canva OR/div_Onde assistir o canal National Geographic_L3Ezfd_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Canva OR/div_Como assistir National Geographic pelo celular_L3Ezfd",
+      "brokenLocator": "//div[@id\u003d\u0027zHlAZLvgCMmdgQa6852QCg__19\u0027]/div/div/div[2]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/div/div[2]/div/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Canva OR/div_Como assistir National Geographic pelo celular_L3Ezfd_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Canva OR/div_Quanto custa National Geographic_L3Ezfd",
+      "brokenLocator": "//div[@id\u003d\u0027zHlAZLvgCMmdgQa6852QCg__22\u0027]/div/div/div[2]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/div/div/div[2]/div/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Canva OR/div_Quanto custa National Geographic_L3Ezfd_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Canva OR/div_O que significa natgeo_L3Ezfd",
+      "brokenLocator": "//div[@id\u003d\u0027zHlAZLvgCMmdgQa6852QCg__25\u0027]/div/div/div[2]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[4]/div/div/div/div[2]/div/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Canva OR/div_O que significa natgeo_L3Ezfd_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Canva OR/div_Tem National Geographic na Netflix_L3Ezfd",
+      "brokenLocator": "//div[@id\u003d\u00276XlAZNnHLM6ChbIPku-MsAo__2\u0027]/div/div/div[2]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[5]/div/div/div/div[2]/div/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Canva OR/div_Tem National Geographic na Netflix_L3Ezfd_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Canva OR/div_O que aconteceu com National Geographic_L3Ezfd",
+      "brokenLocator": "//div[@id\u003d\u00276XlAZNnHLM6ChbIPku-MsAo__5\u0027]/div/div/div[2]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[6]/div/div/div/div[2]/div/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Canva OR/div_O que aconteceu com National Geographic_L3Ezfd_position.png"
     }
   ]
 }
