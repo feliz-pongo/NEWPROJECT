@@ -27,5 +27,6 @@ WebUI.click(findTestObject('Object Repository/Canva OR/div_Quanto custa National
 WebUI.click(findTestObject('Object Repository/Canva OR/div_O que significa natgeo_L3Ezfd'))
 WebUI.click(findTestObject('Object Repository/Canva OR/div_Tem National Geographic na Netflix_L3Ezfd'))
 WebUI.click(findTestObject('Object Repository/Canva OR/div_O que aconteceu com National Geographic_L3Ezfd'))
-
+WebUI.click(findTestObject('Object Repository/Canva OR/textarea_natgeo'))
+WebUI.click(findTestObject('Object Repository/Canva OR/b_National Geographic Brasil'))
 
