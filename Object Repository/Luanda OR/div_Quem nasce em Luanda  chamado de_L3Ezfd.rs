@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Quem nasce em Luanda  chamado de_L3Ezfd</name>
+   <tag></tag>
+   <elementGuidId>300dc53a-a6df-42b3-9436-c2cc15385176</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DjZBZIeGDq_c7_UPvPud-As__226']/div/div/div[2]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DjZBZIeGDq_c7_UPvPud-As__226 > div.wQiwMc.related-question-pair > div.HYvwY.ilulF.roMIYb.oST1qe.g7pt6d.h373nd > div:nth-of-type(2) > div.dnXCYb > div.L3Ezfd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b73bd7b-7521-42d9-a88d-0dab39458089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>pcRaIe</value>
+      <webElementGuid>509c7ce8-689f-4a05-995e-529db42a1e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>L3Ezfd</value>
+      <webElementGuid>8f05f5d3-19e1-493b-b76f-64e3e5790d21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ved</name>
+      <type>Main</type>
+      <value>2ahUKEwiHxcrYwLj-AhUv7rsIHbx9B78Quk56BQiWARAC</value>
+      <webElementGuid>a665aae2-ad3c-4fa1-b488-2cfb77bd7e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DjZBZIeGDq_c7_UPvPud-As__226&quot;)/div[@class=&quot;wQiwMc related-question-pair&quot;]/div[@class=&quot;HYvwY ilulF roMIYb oST1qe g7pt6d h373nd&quot;]/div[2]/div[@class=&quot;dnXCYb&quot;]/div[@class=&quot;L3Ezfd&quot;]</value>
+      <webElementGuid>33e889de-c155-4055-bc2d-27e341cbdea7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DjZBZIeGDq_c7_UPvPud-As__226']/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>b437949e-a1d4-47a0-8585-8febb72989bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>7377610b-14d7-48e3-85b3-1bbfb173b709</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

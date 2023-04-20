@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Quanto custa viver em Luanda_L3Ezfd</name>
+   <tag></tag>
+   <elementGuidId>36db701b-73db-4cce-ab60-20a4bb8b855a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DjZBZIeGDq_c7_UPvPud-As__229']/div/div/div[2]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DjZBZIeGDq_c7_UPvPud-As__229 > div.wQiwMc.related-question-pair > div.HYvwY.ilulF.roMIYb.oST1qe.g7pt6d.h373nd > div:nth-of-type(2) > div.dnXCYb > div.L3Ezfd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>935daab8-f1e0-43cb-a278-df08620bab14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>pcRaIe</value>
+      <webElementGuid>afbca66b-46a5-4dbd-8c17-eb61dea9a994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>L3Ezfd</value>
+      <webElementGuid>a2d5718e-0339-49c3-a50c-b547d9618e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ved</name>
+      <type>Main</type>
+      <value>2ahUKEwiHxcrYwLj-AhUv7rsIHbx9B78Quk56BQiKARAC</value>
+      <webElementGuid>98549d47-5915-4aa6-ae95-f347e763d201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DjZBZIeGDq_c7_UPvPud-As__229&quot;)/div[@class=&quot;wQiwMc related-question-pair&quot;]/div[@class=&quot;HYvwY ilulF roMIYb oST1qe g7pt6d h373nd&quot;]/div[2]/div[@class=&quot;dnXCYb&quot;]/div[@class=&quot;L3Ezfd&quot;]</value>
+      <webElementGuid>cd1f558b-a2ed-425d-9ff2-753606d39991</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DjZBZIeGDq_c7_UPvPud-As__229']/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>e3093f4f-d7a4-4bcc-83ae-f57e050e3d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>4cfa77f2-f97d-4fc3-9f7a-56327efb6432</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

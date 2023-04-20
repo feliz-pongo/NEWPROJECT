@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Porque Luanda  a cidade mais cara do mundo_L3Ezfd</name>
+   <tag></tag>
+   <elementGuidId>b7712ad4-7aee-4bde-9c2e-df950705b338</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DjZBZIeGDq_c7_UPvPud-As__223']/div/div/div[2]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DjZBZIeGDq_c7_UPvPud-As__223 > div.wQiwMc.related-question-pair > div.HYvwY.ilulF.roMIYb.oST1qe.g7pt6d.h373nd > div:nth-of-type(2) > div.dnXCYb > div.L3Ezfd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>04cdc520-33ac-4fb3-8141-ef2a2a8260ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>pcRaIe</value>
+      <webElementGuid>45092f17-94f7-4252-a057-753e94e43d93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>L3Ezfd</value>
+      <webElementGuid>8eeca3cc-18e6-43d2-95fd-96ef152f06f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ved</name>
+      <type>Main</type>
+      <value>2ahUKEwiHxcrYwLj-AhUv7rsIHbx9B78Quk56BQipARAC</value>
+      <webElementGuid>ed216aaa-c8fa-4dd8-be72-70eb0afba4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DjZBZIeGDq_c7_UPvPud-As__223&quot;)/div[@class=&quot;wQiwMc related-question-pair&quot;]/div[@class=&quot;HYvwY ilulF roMIYb oST1qe g7pt6d h373nd&quot;]/div[2]/div[@class=&quot;dnXCYb&quot;]/div[@class=&quot;L3Ezfd&quot;]</value>
+      <webElementGuid>39f3c1d4-7ba1-4219-9991-5b5f3bdb7666</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DjZBZIeGDq_c7_UPvPud-As__223']/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>2c4d5e53-1db1-4b11-b008-caeef6dbc733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>828c2a15-d6b6-47b2-a8e4-72e594166726</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

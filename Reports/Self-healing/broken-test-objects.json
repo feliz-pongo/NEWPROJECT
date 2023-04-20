@@ -149,6 +149,46 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Canva OR/a_Notcias_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Luanda OR/div_bom morar em Luanda_L3Ezfd",
+      "brokenLocator": "//div[@id\u003d\u0027DjZBZIeGDq_c7_UPvPud-As__214\u0027]/div/div/div[2]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/div/div[2]/div/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Luanda OR/div_bom morar em Luanda_L3Ezfd_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Luanda OR/div_Porque Luanda  a cidade mais cara do mundo_L3Ezfd",
+      "brokenLocator": "//div[@id\u003d\u0027DjZBZIeGDq_c7_UPvPud-As__223\u0027]/div/div/div[2]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/div/div[2]/div/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Luanda OR/div_Porque Luanda  a cidade mais cara do mundo_L3Ezfd_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Luanda OR/div_Quem nasce em Luanda  chamado de_L3Ezfd",
+      "brokenLocator": "//div[@id\u003d\u0027DjZBZIeGDq_c7_UPvPud-As__226\u0027]/div/div/div[2]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/div/div/div[2]/div/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Luanda OR/div_Quem nasce em Luanda  chamado de_L3Ezfd_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Luanda OR/div_Quanto custa viver em Luanda_L3Ezfd",
+      "brokenLocator": "//div[@id\u003d\u0027DjZBZIeGDq_c7_UPvPud-As__229\u0027]/div/div/div[2]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[4]/div/div/div/div[2]/div/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Luanda OR/div_Quanto custa viver em Luanda_L3Ezfd_position.png"
     }
   ]
 }
