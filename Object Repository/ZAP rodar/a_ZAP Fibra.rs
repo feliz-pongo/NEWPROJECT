@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ZAP Fibra</name>
+   <tag></tag>
+   <elementGuidId>0c9a191e-5918-4c76-a402-c37b1e957861</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='zapSatelite'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>734b4b5a-9c1a-4737-81a5-2fa60c11380a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/zap-fibra</value>
+      <webElementGuid>b7d0ba7c-b8db-4a19-bdcb-f69ee368883f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link dropdown-toggle</value>
+      <webElementGuid>bff312b9-c778-420a-985f-9f328534c0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zapSatelite</value>
+      <webElementGuid>0e9f35c8-d188-4be8-9c4c-917f5be5c20b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>493e72bd-3299-4103-a2fc-ae93c3bdc120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  ZAP Fibra
+                </value>
+      <webElementGuid>53a709dd-28b8-4d50-a892-cddb65646d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondaryMenuNavbar&quot;)/li[@class=&quot;nav-item dropdown&quot;]/a[@id=&quot;zapSatelite&quot;]</value>
+      <webElementGuid>ac128934-56b9-4ec8-b4ed-102f6193d180</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='zapSatelite'])[2]</value>
+      <webElementGuid>fe146a4f-8ffe-4d93-bf8c-d858b865265c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='secondaryMenuNavbar']/li[2]/a</value>
+      <webElementGuid>1f708f0b-aa47-41e4-b98d-7374c1a07774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ZAP Fibra')]</value>
+      <webElementGuid>4bae7b2a-0a49-4b60-b3db-ccb65e370bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condições Gerais do Serviço'])[1]/following::a[1]</value>
+      <webElementGuid>080ec258-c544-44b0-82f6-fb852bb90862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campanhas'])[1]/following::a[2]</value>
+      <webElementGuid>34aea2b4-69be-4e8b-85df-ff89acf4ce97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pacotes TV + Net'])[1]/preceding::a[1]</value>
+      <webElementGuid>a1237051-e06a-468c-8c59-bc360ebeddae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WIFI 6'])[1]/preceding::a[2]</value>
+      <webElementGuid>7e0b3eeb-bfdf-4b79-9243-c3dc2b169980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ZAP Fibra']/parent::*</value>
+      <webElementGuid>f615f1c0-3ff6-4928-b0e8-c698e1fdda02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/zap-fibra')]</value>
+      <webElementGuid>c597be7b-e019-4677-88eb-79df26fe6c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav[2]/div/div/ul/li[2]/a</value>
+      <webElementGuid>e5d40135-20be-41a7-94db-327c1d97b422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/zap-fibra' and @id = 'zapSatelite' and (text() = '
+                  ZAP Fibra
+                ' or . = '
+                  ZAP Fibra
+                ')]</value>
+      <webElementGuid>cc4c2865-52f0-4d43-b9be-eda248faf47d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

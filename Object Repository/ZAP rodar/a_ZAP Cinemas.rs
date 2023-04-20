@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ZAP Cinemas</name>
+   <tag></tag>
+   <elementGuidId>c91a41c9-71e4-4e52-9d66-c91b037c6827</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='zapSatelite'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3fb9cda0-e2f8-456e-b655-092fdd2f4651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/zap-cinemas</value>
+      <webElementGuid>752df1e5-1379-42a7-87c0-54d3d144b710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link dropdown-toggle nuxt-link-active</value>
+      <webElementGuid>1b9dbc0e-229b-41e1-a46d-56a36d1ef650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zapSatelite</value>
+      <webElementGuid>242daea1-25de-4ea3-b9cd-fa9e1f55d6aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>a0dcd0dc-52e3-42a8-bc26-9714075a90db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  ZAP Cinemas
+                </value>
+      <webElementGuid>546e2d72-8204-48dc-944e-006f2e028a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondaryMenuNavbar&quot;)/li[@class=&quot;nav-item dropdown&quot;]/a[@id=&quot;zapSatelite&quot;]</value>
+      <webElementGuid>02f298b8-443e-4296-99a0-e994222c1268</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='zapSatelite'])[4]</value>
+      <webElementGuid>2a65b622-f7c3-4fc5-bfb5-252c09a05949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='secondaryMenuNavbar']/li[4]/a</value>
+      <webElementGuid>3a691e32-0425-4538-9cf3-e9e3ecf576b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ZAP Cinemas')]</value>
+      <webElementGuid>e4ebd0db-56c2-400b-a9a5-09586359d5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listagem de Canais'])[1]/following::a[1]</value>
+      <webElementGuid>df6c3353-175a-4fd1-a6a9-591093abe7c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guia TV'])[1]/following::a[2]</value>
+      <webElementGuid>1cf693d5-26da-420b-9736-9bcd9c1ababd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Em cartaz'])[1]/preceding::a[1]</value>
+      <webElementGuid>41977a49-b757-4373-b733-a35fbdc92384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IMAX'])[1]/preceding::a[2]</value>
+      <webElementGuid>ca35fbea-e7c3-4d8b-8052-d8a3ba9fab3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ZAP Cinemas']/parent::*</value>
+      <webElementGuid>5e0573cd-afb6-4de4-b95e-08ccd97fcddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/zap-cinemas')])[2]</value>
+      <webElementGuid>148fa20f-57be-4142-b352-0ede5e58a6e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>d4090824-9175-468f-ace9-91a284608fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/zap-cinemas' and @id = 'zapSatelite' and (text() = '
+                  ZAP Cinemas
+                ' or . = '
+                  ZAP Cinemas
+                ')]</value>
+      <webElementGuid>db0279a3-1018-4f30-8b1e-71f6b05b464c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

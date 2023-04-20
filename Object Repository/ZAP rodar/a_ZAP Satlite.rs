@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ZAP Satlite</name>
+   <tag></tag>
+   <elementGuidId>e2f0768e-3760-45b5-b06b-07db9b4a6399</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='zapSatelite']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#zapSatelite</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dadf1536-101e-40fc-9648-d81381e06ce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/zap-satelite</value>
+      <webElementGuid>7f3fff67-de00-4f4e-a4c3-e11a95ce01cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link dropdown-toggle show</value>
+      <webElementGuid>f0ad905f-aee9-42d4-9157-1564de6472a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zapSatelite</value>
+      <webElementGuid>2fca7a65-960d-4f12-82fb-d0742ae3df10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>6b274a15-62e1-49de-8098-8006e199e4cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>954f93d7-f084-4769-bbc9-3c49202b1006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  ZAP Satélite
+                </value>
+      <webElementGuid>4233ad68-bf35-4253-9bd1-5cc383f8a5ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondaryMenuNavbar&quot;)/li[@class=&quot;nav-item dropdown&quot;]/a[@id=&quot;zapSatelite&quot;]</value>
+      <webElementGuid>67297f00-4bb3-4c48-baf3-a6f38f9bdf2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='zapSatelite']</value>
+      <webElementGuid>46b558b2-2d8d-4f4c-9ac3-e5af279abf48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='secondaryMenuNavbar']/li/a</value>
+      <webElementGuid>8e3fe4be-97c0-4848-859a-b84aaeb99ea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ZAP Satélite')]</value>
+      <webElementGuid>be1f86c9-da34-4906-a410-8defc6fd62a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moçambique'])[1]/following::a[2]</value>
+      <webElementGuid>d1f56aec-1b39-4466-9f3d-e8d9398ce0fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Angola'])[2]/following::a[3]</value>
+      <webElementGuid>c3cfd62e-38d2-4890-adf6-527711f91c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pacotes de Canais'])[1]/preceding::a[1]</value>
+      <webElementGuid>979fef70-7af5-4a6e-b899-4d471527e30e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZAP Filmes'])[1]/preceding::a[2]</value>
+      <webElementGuid>4676b2fc-a745-4c78-9518-300d62523c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ZAP Satélite']/parent::*</value>
+      <webElementGuid>ae3467cf-7696-4341-8b7d-d8767a927769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/zap-satelite')]</value>
+      <webElementGuid>88a2da97-c98f-4a0f-ad33-da377d9c1d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav[2]/div/div/ul/li/a</value>
+      <webElementGuid>902dbd5b-6d6c-412c-bfae-b6172d4eaa67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/zap-satelite' and @id = 'zapSatelite' and (text() = '
+                  ZAP Satélite
+                ' or . = '
+                  ZAP Satélite
+                ')]</value>
+      <webElementGuid>60f5078c-1c9e-4b5c-bc0e-5fe3ec8568b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
