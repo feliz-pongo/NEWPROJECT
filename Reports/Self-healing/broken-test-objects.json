@@ -139,6 +139,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Canva OR/div_O que aconteceu com National Geographic_L3Ezfd_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Canva OR/a_Notcias",
+      "brokenLocator": "//div[@id\u003d\u0027hdtb-msb\u0027]/div/div/div[4]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Notícias\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Canva OR/a_Notcias_link.png"
     }
   ]
 }
