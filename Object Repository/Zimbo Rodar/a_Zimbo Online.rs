@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Zimbo Online</name>
+   <tag></tag>
+   <elementGuidId>d3d74332-dcf6-4bbc-a1e6-5bdf427478c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='top']/div/div[2]/div[2]/div/div/nav/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>89bc6695-cbc5-4ac6-b4f4-cfc8ac08cd33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>a6c035a4-60a4-4a20-bb27-588f2b8a4999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ao/zimbo-online/</value>
+      <webElementGuid>aab7b1a4-9e69-41fe-9b49-c4dfea8d8f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zimbo Online</value>
+      <webElementGuid>ef009f75-fcf5-4d34-b67d-ef8746f7da3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;container py-1&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-sm-8 col-md-9 text-right&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 justify-content-end my-md-0 align-items-center d-flex&quot;]/nav[@class=&quot;navbar navbar-expand-xl navbar-light menu-top-container d-none d-xl-flex col-xl-10&quot;]/ul[@class=&quot;navbar-nav ml-auto menu-topo&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>e4015b39-fbe6-44c4-9f05-6166673f5cd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='top']/div/div[2]/div[2]/div/div/nav/ul/li[4]/a</value>
+      <webElementGuid>ba7b9bcc-d6d6-4d22-a8b4-29a9c1fc3474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Zimbo Online')]</value>
+      <webElementGuid>8d2793cd-01a3-4775-8941-b2f55a3eb31f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entretenimento'])[1]/following::a[1]</value>
+      <webElementGuid>b7ecd2ee-fa6e-490e-a0fe-6941185d90a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informação'])[1]/following::a[2]</value>
+      <webElementGuid>3b81bb0c-c957-4e70-bf5f-fd514a9231c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programação'])[1]/preceding::a[1]</value>
+      <webElementGuid>9698bf6f-7f19-4f1d-9bd9-38db16697f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TV Zimbo'])[2]/preceding::a[2]</value>
+      <webElementGuid>41c6528d-80ac-4cb4-8f34-8d69aac90ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zimbo Online']/parent::*</value>
+      <webElementGuid>d951aa18-44fe-404e-b088-396058e54605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ao/zimbo-online/')]</value>
+      <webElementGuid>a747a586-c13c-4fd5-a8ec-c879aa7d4aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>41012a8a-2231-4c0d-abcf-87c2ec8e0249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ao/zimbo-online/' and (text() = 'Zimbo Online' or . = 'Zimbo Online')]</value>
+      <webElementGuid>e0eca97f-106a-4c5b-ae39-662668d675bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

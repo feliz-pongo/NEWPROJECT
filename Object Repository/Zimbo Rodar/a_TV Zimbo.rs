@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TV Zimbo</name>
+   <tag></tag>
+   <elementGuidId>d5ad29bb-a1e7-4b18-b6d7-756bc50f8a6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='top']/div/div[2]/div[2]/div/div/nav/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a6fe88ca-594a-4356-82de-7ff32cb662ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>a3f90b50-133c-4c50-9a74-d1cbc0308613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ao/quem-somos/</value>
+      <webElementGuid>22c90de8-2fc9-46ae-8830-54aa50e86f63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TV Zimbo</value>
+      <webElementGuid>c214ea0a-0864-4116-96e3-e96737837256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;container py-1&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-sm-8 col-md-9 text-right&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 justify-content-end my-md-0 align-items-center d-flex&quot;]/nav[@class=&quot;navbar navbar-expand-xl navbar-light menu-top-container d-none d-xl-flex col-xl-10&quot;]/ul[@class=&quot;navbar-nav ml-auto menu-topo&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>57bc4e5c-73ea-42e2-b2a9-1b2b25d1abaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='top']/div/div[2]/div[2]/div/div/nav/ul/li[6]/a</value>
+      <webElementGuid>bf7f66b9-082b-42f8-90fe-25e599f85351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'TV Zimbo')]</value>
+      <webElementGuid>8e9bb3c3-1637-4934-aa37-7fce3e39488d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programação'])[1]/following::a[1]</value>
+      <webElementGuid>749173eb-0d40-4c29-90fe-ed3afd2e9d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zimbo Online'])[1]/following::a[2]</value>
+      <webElementGuid>0892cbe8-dafd-4680-8075-33bf68621be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Início'])[2]/preceding::a[3]</value>
+      <webElementGuid>b301548b-7444-46d3-97fd-3c0a67274e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informação'])[2]/preceding::a[4]</value>
+      <webElementGuid>30b147b8-017b-445e-a1f7-0c82f18f1514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ao/quem-somos/')]</value>
+      <webElementGuid>924eba93-bbbf-4f78-8f1c-da554a72162d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>7872758d-631e-4e73-b657-239a40430f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ao/quem-somos/' and (text() = 'TV Zimbo' or . = 'TV Zimbo')]</value>
+      <webElementGuid>407ac0b5-ffb8-4fb0-ae2b-2f31d68de714</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
