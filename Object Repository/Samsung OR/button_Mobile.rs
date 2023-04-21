@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mobile</name>
+   <tag></tag>
+   <elementGuidId>5c598d06-5164-4803-9de6-c3c1b4a96470</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='component-id']/div[2]/div[4]/ul/li/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.nv00-gnb__l0-menu-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>408bf4d6-07c4-4b64-ab3c-bafc62f8beb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nv00-gnb__l0-menu-btn</value>
+      <webElementGuid>ac4142f1-38c9-486b-8c1d-6cbcaff36fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>d4414cae-f15f-41dc-86bd-0466f93187f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3e082c86-9abb-408f-b0e9-a6f527d02260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4e69f1a3-8de1-4b74-9c39-c9e23a13072d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-tr</name>
+      <type>Main</type>
+      <value>nv00_gnb-1depth-navigation2</value>
+      <webElementGuid>08f821ee-0a37-434a-96e1-464de3506721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-ca</name>
+      <type>Main</type>
+      <value>navigation</value>
+      <webElementGuid>33a0ce44-363e-4332-84d4-a17aef9b01c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-ac</name>
+      <type>Main</type>
+      <value>gnb</value>
+      <webElementGuid>d63474b4-af2b-4ce1-8318-9121a6adcaab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-la</name>
+      <type>Main</type>
+      <value>Mobile</value>
+      <webElementGuid>ef9e3111-81d0-4216-a247-0a1455abca1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Mobile
+          
+              
+          
+        </value>
+      <webElementGuid>e76c9868-abf6-45aa-94c0-c4e5d8295adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;component-id&quot;)/div[@class=&quot;nv00-gnb__inner-wrap&quot;]/div[@class=&quot;nv00-gnb__l0-menu-wrap&quot;]/ul[@class=&quot;nv00-gnb__l0-menu-list left-menu&quot;]/li[@class=&quot;nv00-gnb__l0-menu&quot;]/button[@class=&quot;nv00-gnb__l0-menu-btn&quot;]</value>
+      <webElementGuid>d58aa0a7-f321-4423-9483-37cff9bf5765</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='component-id']/div[2]/div[4]/ul/li/button</value>
+      <webElementGuid>6c329a31-c407-447c-8ffe-c3c34979453e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In/Sign Up'])[1]/following::button[1]</value>
+      <webElementGuid>a63a1d45-3d99-40d8-b6a7-feb2d366cf6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPECIAL OFFERS'])[1]/following::button[4]</value>
+      <webElementGuid>741fff7d-064e-4972-8e80-d6b47d275cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discover Mobile'])[1]/preceding::button[1]</value>
+      <webElementGuid>90032d41-c743-4a7a-8622-8c199f40c4c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smartphones'])[1]/preceding::button[1]</value>
+      <webElementGuid>e01a0f51-12fa-40cf-afb1-f6410eb3c24c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mobile']/parent::*</value>
+      <webElementGuid>6b884045-38da-4519-b63f-d00e6227014f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/button</value>
+      <webElementGuid>cb525cba-3055-4caa-b6cd-9cc6130d33f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+          Mobile
+          
+              
+          
+        ' or . = '
+          Mobile
+          
+              
+          
+        ')]</value>
+      <webElementGuid>ee261509-92fa-4bf7-8d8a-2a423aee3740</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

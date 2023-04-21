@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SmartThings</name>
+   <tag></tag>
+   <elementGuidId>d23fa471-4c04-4087-98b7-b707ee6d658d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='component-id']/div[2]/div[4]/ul/li[7]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>61d65273-cf05-4685-b070-ce4fdb2c9978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nv00-gnb__l0-menu-btn</value>
+      <webElementGuid>889f759f-6f43-4e77-850e-d3f5cd744154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>69317c21-706e-41b7-a9de-8f0c26375038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f6ed531d-f26a-4582-beb1-f57e5b33d53d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d812548b-bc50-4554-8c79-b8650da6a0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-tr</name>
+      <type>Main</type>
+      <value>nv00_gnb-1depth-navigation2</value>
+      <webElementGuid>b7d7d43f-0a27-461a-8649-c8c5081a9840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-ca</name>
+      <type>Main</type>
+      <value>navigation</value>
+      <webElementGuid>e22d92d5-57a4-4c80-b9c2-b8baea015bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-ac</name>
+      <type>Main</type>
+      <value>gnb</value>
+      <webElementGuid>5568cfbc-ce44-4834-916e-d12411df6799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-la</name>
+      <type>Main</type>
+      <value>smartthings</value>
+      <webElementGuid>41bbb46b-02cd-4de1-80a9-4f7bb1595c86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          SmartThings
+          
+              
+          
+        </value>
+      <webElementGuid>5522e234-7813-4048-a0c4-cfa002af649c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;component-id&quot;)/div[@class=&quot;nv00-gnb__inner-wrap&quot;]/div[@class=&quot;nv00-gnb__l0-menu-wrap&quot;]/ul[@class=&quot;nv00-gnb__l0-menu-list left-menu&quot;]/li[@class=&quot;nv00-gnb__l0-menu&quot;]/button[@class=&quot;nv00-gnb__l0-menu-btn&quot;]</value>
+      <webElementGuid>94132843-4f7e-4600-92d1-0a3858db664d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='component-id']/div[2]/div[4]/ul/li[7]/button</value>
+      <webElementGuid>cccf7cf0-1be7-4a9f-9704-580552e19e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop All Accessories'])[2]/following::button[1]</value>
+      <webElementGuid>19cc0d21-447f-48c1-bdc0-89fe5dbb9a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computing Accessories'])[1]/following::button[1]</value>
+      <webElementGuid>efa9d5e8-c3aa-4d1e-ac0e-2e1fcd48db96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SmartThings in Action'])[1]/preceding::button[1]</value>
+      <webElementGuid>116248da-ccba-402e-a412-a29bcbb0b3dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discover SmartThings'])[1]/preceding::button[2]</value>
+      <webElementGuid>3b97fec8-df78-4c1f-b9e6-52565d47d99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SmartThings']/parent::*</value>
+      <webElementGuid>b519ed31-5215-4bbd-b38e-c7bb20b7f715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/button</value>
+      <webElementGuid>0813d71e-c36e-43cd-a28d-9d0609b8cb7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+          SmartThings
+          
+              
+          
+        ' or . = '
+          SmartThings
+          
+              
+          
+        ')]</value>
+      <webElementGuid>26c50a15-2370-4c2b-873b-77dbee686e6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Computing</name>
+   <tag></tag>
+   <elementGuidId>6587ba9e-74dd-440e-8c7b-9611b483111e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='component-id']/div[2]/div[4]/ul/li[4]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>81e798cc-d8a9-4a82-a6aa-4d8c7853d4f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nv00-gnb__l0-menu-btn</value>
+      <webElementGuid>327788b4-4af9-471f-a40d-fd921db0927c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>51dd9d89-ec29-4379-9e97-66e98f2a87dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3695e72c-db7a-4424-bec4-57f9f07958c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1f640514-a637-4faa-92e7-84a5f4dc1249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-tr</name>
+      <type>Main</type>
+      <value>nv00_gnb-1depth-navigation2</value>
+      <webElementGuid>62e4f4bc-acd3-472b-8074-50f144ed8887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-ca</name>
+      <type>Main</type>
+      <value>navigation</value>
+      <webElementGuid>bf245a02-a846-4714-b137-c6da159c0290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-ac</name>
+      <type>Main</type>
+      <value>gnb</value>
+      <webElementGuid>fd3ae08b-3c1c-452a-a583-e8277d5e0391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-la</name>
+      <type>Main</type>
+      <value>Computing</value>
+      <webElementGuid>6c653973-800d-4fbf-91d7-eff66270ae20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Computing
+          
+              
+          
+        </value>
+      <webElementGuid>739b94b2-1ff6-4a48-8a6e-dca320e0fef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;component-id&quot;)/div[@class=&quot;nv00-gnb__inner-wrap&quot;]/div[@class=&quot;nv00-gnb__l0-menu-wrap&quot;]/ul[@class=&quot;nv00-gnb__l0-menu-list left-menu&quot;]/li[@class=&quot;nv00-gnb__l0-menu&quot;]/button[@class=&quot;nv00-gnb__l0-menu-btn&quot;]</value>
+      <webElementGuid>74f0bab7-a8cc-46b1-a208-d8ef7b7ef392</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='component-id']/div[2]/div[4]/ul/li[4]/button</value>
+      <webElementGuid>f6da3bca-2180-4237-97f2-e53b9120f2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discover Dacor Appliances'])[1]/following::button[1]</value>
+      <webElementGuid>d8d48d25-dc60-490e-990f-3e005b340e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dacor Appliances'])[1]/following::button[1]</value>
+      <webElementGuid>68813ed1-bca2-47a1-b887-faeea2637412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Galaxy Books'])[1]/preceding::button[1]</value>
+      <webElementGuid>6805f208-1e0f-4b48-a2c2-896503a5eb49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discover Galaxy Books'])[1]/preceding::button[2]</value>
+      <webElementGuid>d66b07cc-818e-4d91-bf2d-ebe0fbd57b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Computing']/parent::*</value>
+      <webElementGuid>a890395d-604a-45ba-a047-5e2b1d7bdf6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/button</value>
+      <webElementGuid>3ce111f8-5ae9-4b29-89da-9b9802701ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+          Computing
+          
+              
+          
+        ' or . = '
+          Computing
+          
+              
+          
+        ')]</value>
+      <webElementGuid>dac77c42-fcac-49ec-828e-4548a0960e0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
